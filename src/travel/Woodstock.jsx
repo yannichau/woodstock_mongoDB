@@ -22,7 +22,7 @@ function WoodstockTravels({ postdata }) {
         // FILTER FUNCTIONS
         const filter_stations = (input) => {
             var attr = d3.select(input)._groups[0][0].getAttributeNS('http://www.w3.org/1999/xlink', 'href');
-            return attr.includes("#st") || attr.includes("wheelchair") || attr.includes("base") || attr.includes("crutch") || attr.includes("int") || attr.includes("cap") || attr.includes("term") || attr.includes("hub") || attr.includes("nr");
+            return attr.includes("#st") || attr.includes("wheelchair") || attr.includes("base") || attr.includes("crutch") || attr.includes("int") || attr.includes("cap") || attr.includes("term") || attr.includes("hub") || attr.includes("nr") && !(attr.includes("zone1_base"));
         };
 
 
@@ -71,17 +71,13 @@ function WoodstockTravels({ postdata }) {
                                         .datum(item)
                                         .on("mouseover", datum => {
                                             svg.select(`image#ws_${item.ID}`).attr('height', 60);
-                                            console.log(stationInfo);
                                             if (datum.srcElement.id !== "") {
                                                 var stationInfo = datum.srcElement.__data__;
-                                                //setSelectedStation(datum.srcElement.id);
                                                 setInfoTip(stationInfo);
-                                                console.log(stationInfo);
                                             }
                                         })
                                         .on("click", datum => {
                                             if (datum.srcElement.id !== "") {
-                                                //setSelectedStation(datum.srcElement.id);
                                                 handleShow();
                                             }
                                         })
@@ -106,18 +102,14 @@ function WoodstockTravels({ postdata }) {
                 return filter_stations(this);
             })
             .on("mouseover", datum => {
-                console.log("hovered feature id:" + datum.srcElement.id + ", baseVal:" + datum.srcElement.href.baseVal);
                 if (datum.srcElement.id !== "") {
                     var stationInfo = datum.srcElement.__data__;
-                    console.log(datum.srcElement);
-                    //setSelectedStation(datum.srcElement.id);
                     setInfoTip(stationInfo);
                 }
             })
             .on("click", datum => {
                 if (datum.srcElement.id !== "") {
                     console.log(datum.srcElement);
-                    //setSelectedStation(datum.srcElement.id);
                     handleShow();
                 }
             })
@@ -127,27 +119,10 @@ function WoodstockTravels({ postdata }) {
             .on("mouseover", datum => {
                 if (datum.srcElement.id !== "") {
                     console.log("Hovered over bank monument hub")
-                    //setSelectedStation(datum.srcElement.id);
                 }
             })
             .on("click", datum => {
                 if (datum.srcElement.id !== "") {
-                    //setSelectedStation(datum.srcElement.id);
-                    handleShow();
-                }
-            })
-            .style("cursor", "pointer");
-
-        svg.selectAll("#Bank_Monument_hub")
-            .on("mouseover", datum => {
-                if (datum.srcElement.id !== "") {
-                    console.log("Hovered over bank monument hub")
-                    //setSelectedStation(datum.srcElement.id);
-                }
-            })
-            .on("click", datum => {
-                if (datum.srcElement.id !== "") {
-                    //setSelectedStation(datum.srcElement.id);
                     handleShow();
                 }
             })

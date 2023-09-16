@@ -2608,7 +2608,7 @@
 				<text transform="translate(1575,560)scale(0.9,1)" class="end"
 					style="fill:#ef2721;font-size:10px">Fenchurch Street</text>
 			</g>
-			<g id="Aldgate">
+			<g>
 				<g>
 					<title>0.3 mile walking distance within 20 minutes</title>
 					<g class="osib">
@@ -2617,9 +2617,9 @@
 						V 585
 						" />
 					</g>
-					<use xlink:href="#Aldgate-Tower_Gateway_osi_base" class="osi" id="Aldgate"/>
-				</g>
-				<use xlink:href="#int" x="1601.5" y="541.5" id="Aldgate" />
+					<use xlink:href="#Aldgate-Tower_Gateway_osi_base" class="osi"/>
+				</g> 
+				<use xlink:href="#int" x="1601.5" y="541.5" id="Aldgate" /> 
 			</g>
 			<g>
 				<title>0.1-mile walking distance within 15 minutes</title>

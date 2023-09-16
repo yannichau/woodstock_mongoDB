@@ -1,0 +1,479 @@
+ID,Station,Lat,Long,Lines,Step free Info,Borough,Zones,Opening date,Other names
+Abbey_Road,Abbey Road,,,DLR,,Newham,2 & 3,31 August 2011,
+Abbey_Wood,Abbey Wood,,,Elizabeth,,,4,,
+Acton_Central,Acton Central,,,London Overground,,,3,,
+Acton_Main_Line,Acton Main Line,,,Elizabeth,,,3,,
+Acton_Town,Acton Town,51.5025,-0.278126,"District, Piccadilly",,Ealing,3,1 July 1879,Mill Hill Park: 1879–1910
+Aldgate,Aldgate,51.51394,-0.07537,"Metropolitan, Circle",No,City of London,1,18 November 1876,
+Aldgate_East,Aldgate East,51.51514,-0.07178,"District, Hammersmith & City",,Tower Hamlets,1,6 October 1884resited 31 October 1938,Commercial Road: Proposed before opening
+All_Saints,All Saints,51.510301,-0.012832,DLR,All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],"Poplar High Street, East India Docks Road[7]"
+Alperton,Alperton,51.54097,-0.30061,Piccadilly,,Brent,4,28 June 1903,Perivale-Alperton: 1903–10
+Amersham,Amersham,Amersham,,Metropolitan,,,9,,
+Anerley,Amersham,51.67435,-0.60732,Metropolitan,No (although plans are underway to change this),Buckinghamshire,9,1 September 1892,Amersham: 1892–1922Amersham & Chesham Bois: 1922–34
+Angel,Angel,51.53253,-0.10579,Northern,No (Escalators),Islington,1,17 November 1901,
+Archway,Archway,51.56536,-0.13474,Northern,,Islington,2 & 3,22 June 1907,Archway Tavern: Proposed before openingHighgate: 1907–39Archway (Highgate): 1939–41Highgate (Archway): 1941–47
+Arnos_Grove,Arnos Grove,51.61625,-0.13355,Piccadilly,,Enfield,4,19 September 1932,Bowes Road: Proposed before opening[7]
+Arsenal,Arsenal,51.55847,-0.10561,Piccadilly,,Islington,2,15 December 1906,Gillespie Road: 1906–32Arsenal (Highbury Hill): 1932– suffix gradually dropped
+Baker_Street,Baker Street,51.522236,-0.15708,"Bakerloo, Jubilee, Circle, Hammersmith & City",No,City of Westminster,1,10 January 1863,
+Balham,Balham,51.44344113,-0.152945844,Northern,No,Wandsworth,3,6 December 1926,
+Bank_Monument_hub,Bank/ Monument,51.510165,-0.085991,"Circle, District, Central, Waterloo & City, DLR",,City of London,1,6 October 1884,King William Street: Proposed before opening; East Cheap: 1884; City (W&C line): 1898–1940; Lombard Street (Northern line): Proposed before opening
+Barbican,Barbican,51.520865,-0.097758,"Circle, Hammersmith & City, Metropolitan",No,City of London,1,23 December 1865,Aldersgate Street: 1865–1910Aldersgate: 1910–23Aldersgate & Barbican: 1923–68
+Barking,Barking,51.54079,0.08018,"District, Hammersmith & City",,Barking and Dagenham,4,2 June 1902,
+Barking_Riverside,Barking Riverside,,,London Overground,,,4,,
+Barkingside,Barkingside,51.58543,0.08854,Central,,Redbridge,4,31 May 1948,
+Barons_Court_district,Barons Court,51.490281,-0.21434,"Piccadilly, District",,Hammersmith and Fulham,2,9 October 1905,
+Barons_Court_piccadilly,Barons Court,51.490281,-0.21434,"Piccadilly, District",,Hammersmith and Fulham,2,9 October 1905,
+Battersea_Park,Battersea Park,,,London Overground,,,2,,
+Battersea_Power_Station,Battersea Power Station,51.4795,-0.142,Northern,Yes,Wandsworth,1,20 September 2021,Battersea: Proposed
+Bayswater_circle,Bayswater,51.51224,-0.187569,"Circle, District",,City of Westminster,1,1 October 1868,Bayswater: 1868–1923Bayswater (Queen's Road) & Westbourne Grove: 1923–33Bayswater (Queen's Road): 1933–46Bayswater (Queensway): 1946– suffix gradually dropped
+Bayswater_district,Bayswater,51.51224,-0.187569,"Circle, District",,City of Westminster,1,1 October 1868,Bayswater: 1868–1923Bayswater (Queen's Road) & Westbourne Grove: 1923–33Bayswater (Queen's Road): 1933–46Bayswater (Queensway): 1946– suffix gradually dropped
+Beckton,Beckton,51.514411,0.06164,DLR,All DLR stations are step-free.,Newham,3,28 March 1994[6],–
+Beckton_Park,Beckton Park,51.508758,0.054778,DLR,All DLR stations are step-free.,Newham,3,28 March 1994[6],–
+Becontree,Becontree,51.54029,0.1262,District,,Barking and Dagenham,5,18 July 1932,Gale Street: 1926–32
+Belsize_Park,Belsize Park,51.55036,-0.16465,Northern,,Camden,2,22 June 1907,Belsize: Proposed before opening
+Bermondsey,Bermondsey,51.49813,-0.0635,Jubilee,,Southwark,2,17 September 1999,
+Bethnal_Green_central,Bethnal Green,51.52718,-0.05504,"Central, Overground",No,Tower Hamlets,2,4 December 1946,Bethnal: Proposed before opening
+Bethnal_Green_overground,Bethnal Green,51.52718,-0.05504,"Central, Overground",No,Tower Hamlets,2,4 December 1946,Bethnal: Proposed before opening
+Blackfriars,Blackfriars,51.5114403,-0.1041905,"Circle, District",,City of London,1,30 May 1870,
+Blackhorse_Road,Blackhorse Road,51.58698,-0.04104,Victoria,,Waltham Forest,3,1 September 1968,
+Blackwall,Blackwall,51.507903,-0.007438,DLR,All DLR stations are step-free.,Tower Hamlets,2,28 March 1994[6],–
+Bond_Street,Bond Street,51.51461,-0.14897,"Central, Jubilee, Elizabeth",No,City of Westminster,1,24 September 1900,Davies Street: Proposed before openingSelfridge's: Proposed in 1909
+Bond_Street_cr,Bond Street,51.51461,-0.14897,"Central, Jubilee, Elizabeth",No,City of Westminster,1,24 September 1900,Davies Street: Proposed before openingSelfridge's: Proposed in 1909
+Borough,Borough,51.50095,-0.09446,Northern,,Southwark,1,18 December 1890,
+Boston_Manor,Boston Manor,51.495371,-0.325573,Piccadilly,,EalingHounslow,4,1 May 1883,Boston Road: 1883–1911
+Bounds_Green,Bounds Green,51.607,-0.12418,Piccadilly,,Haringey,3 & 4,19 September 1932,Brownlow Road: Proposed before opening
+Bow_Church,Bow Church,51.5289,-0.021,DLR,All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],Bow Road[7]
+Bow_Road,Bow Road,51.52709,-0.02482,"District, Hammersmith & City",,Tower Hamlets,2,11 June 1902,
+Brent_Cross,Brent Cross,51.57693,-0.21414,Northern,,Barnet,3,19 November 1923,Woodstock: Proposed before openingBrent: 1923–76
+Brentwood,Elizabeth,,,Elizabeth,,,9,,
+Brixton,Brixton,51.46239,-0.115421,Victoria,,Lambeth,2,23 July 1971,
+Brockley,Brockley,,,London Overground,,,2,,
+Bromley-by-Bow_district,Bromley-by-Bow,51.52466,-0.01282,"District, Hammersmith & City",,Tower Hamlets,2 & 3,2 June 1902,Bromley: 1858–1968
+Bromley-by-Bow_hnc,Bromley-by-Bow,51.52466,-0.01282,"District, Hammersmith & City",,Tower Hamlets,2 & 3,2 June 1902,Bromley: 1858–1968
+Brondesbury,Brondesbury,51.54505,-0.20297,London Overground,,Tower Hamlets,2 & 3,2 June 1902,Bromley: 1858–1968
+Brondesbury_Park,Brondesbury Park,51.5406,-0.21093,London Overground,,Tower Hamlets,2 & 3,2 June 1902,Bromley: 1858–1968
+Bruce_Grove,Bruce Grove,,,London Overground,,,3,,
+Buckhurst_Hill,Buckhurst Hill,51.62611,0.04705,Central,,Epping Forest,5,21 November 1948,
+Burnham,Burnham,,,Elizabeth,,,,,
+Burnt_Oak,Burnt Oak,51.603,-0.26427,Northern,,Barnet,4,27 October 1924,Sheaves Hill/Orange Hill/Deansbrook: Proposed before openingBurnt Oak: 1924–28Burnt Oak (Watling): 1928– suffix gradually dropped
+Bush_Hill_Park,Bush HIll Park,,,London Overground,,,5,,
+Bushey,Bushey,,,London Overground,,,8,,
+Caledonian_Road,Caledonian Road,51.5485,-0.11802,Piccadilly,,Islington,2,15 December 1906,Barnsbury: Proposed before opening
+Caledonian_Road_and_Barnsbury,Caledonian Road & Barnesbury,51.54326,-0.11544,London Overground,,Islington,2,15 December 1906,Barnsbury: Proposed before opening
+Cambridge_Heath,Cambridge Heath,,,London Overground,,,2,,
+Camden_Road,Camden Road,51.54192,-0.13981,London Overground,,Islington,2,15 December 1906,Barnsbury: Proposed before opening
+Camden_Town,Camden Town,51.5393,-0.14316,Northern,No,Camden,2,22 June 1907,Camden Road: Proposed before opening
+Canada_Water,Canada Water,51.49787 +/- 0.000011 (from 3 readings),-0.04967 +/- 0.000008 (from 3 readings),East London,,Southwark,2,17 September 1999,
+Canary_Wharf_dlr,Canary Wharf,51.505946,-0.020493,DLR,All DLR stations are step-free.,Tower Hamlets,2,November 1991[12] [13][14],Canary Quay[15]
+Canary_Wharf_elizabeth,Canary Wharf,51.50362,-0.01987,Elizabeth,,Tower Hamlets,2,17 September 1999,
+Canary_Wharf_jubilee,Canary Wharf,51.50362,-0.01987,Jubilee,Unsure (JLE as a whole was built with step free?),Tower Hamlets,2,17 September 1999,
+Canning_Town,Canning Town,51.51388,0.008876,DLR,All DLR stations are step-free.,Tower Hamlets,2,November 1991[12] [13][14],Canary Quay[15]
+Cannon_Street,Cannon Street,51.51141,-0.09047,"Circle, District",,City of London,1,6 October 1884,
+Canonbury,Canonbury,51.54822,-0.09632,London Overground,,City of London,1,6 October 1884,
+Canons_Park,Canons Park,51.6081,-0.29487,Jubilee,,Harrow,5,10 December 1932,Canons Park (Edgware): 1932–33
+Carpenders_Park,Carpenders Park,,,London Overground,,,7,,
+Chadwell_Heath,Chadwell Heath,,,Elizabeth,,,5,,
+Chalfont_and_Latimer,Chalfont & Latimer,51.66822,-0.56053,Metropolitan,No,Buckinghamshire,8,8 July 1889,Chalfont Road: 1889–1915
+Chalk_Farm,Chalk Farm,51.5439,-0.15384,Northern,,Camden,2,22 June 1907,Adelaide Road: Proposed before opening
+Chancery_Lane,Chancery Lane,51.51836,-0.11115,Central,,City of LondonCamden,1,30 July 1900,Chancery Lane: 1900–34Chancery Lane (Grays Inn): 1934– suffix gradually dropped
+Charing_Cross,Charing Cross,51.507108,-0.122963,"Bakerloo, Northern",,City of Westminster,1,10 March 1906,Trafalgar Square (Bakerloo line): 1906–79Charing Cross (Northern line): 1907–14Charing Cross (Strand) (Northern line): 1914–15Strand (Northern line): 1915–79
+Chesham,Chesham,51.70522733,-0.610986426,Metropolitan,Yes (Single platform accessed on flat),Buckinghamshire,9,8 July 1889,
+Cheshunt,Cheshunt,,,London Overground,,,8,,
+Chigwell,Chigwell,51.61795,0.07511,Central,,Epping Forest,4,21 November 1948,
+Chingford,Chingford,,,London Overground,,,5,,
+Chiswick_Park,Chiswick Park,51.49466,-0.26866,District,,Ealing,3,1 July 1879,Acton Green: 1879–87Chiswick Park & Acton Green: 1887–1910
+Chorleywood,Chorleywood,51.65429872,-0.518373353,Metropolitan,No (Subway between N/B & S/B),Three Rivers,7,8 July 1889,Chorley Wood 1889–1915Chorley Wood & Chenies: 1915–34Chorley Wood: 1934–64
+Clapham_Common,Clapham Common,51.46156,-0.13802,Northern,,Lambeth,2,3 June 1900,
+Clapham_High_Street,Clapham High Street,,,London Overground,,,2,,
+Clapham_Junction,Clapham Junction,,,London Overground,,,2,,
+Clapham_North,Clapham North,51.46522,-0.1295,Northern,,Lambeth,2,3 June 1900,Clapham Road: 1900–26
+Clapham_South,Clapham South,51.45292257,-0.147562148,Northern,,Wandsworth,2 & 3,13 September 1926,Nightingale Lane: Proposed before opening
+Clapton,Clapton,,,London Overground,,,2 & 3,,
+Cockfosters,Cockfosters,51.65117,-0.14811,Piccadilly,,Enfield,5,31 July 1933,Trent Park: Proposed before opening
+Colindale,Colindale,51.59556,-0.24996,Northern,,Barnet,4,18 August 1924,
+Colliers_Wood,Colliers Wood,51.41823649,-0.17800983,Northern,,Merton,3,13 September 1926,
+Covent_Garden,Covent Garden,51.51308,-0.12427,Piccadilly,Unsure ( has Lifts ),City of Westminster,1,11 April 1907,
+Crossharbour,Crossharbour,51.495086,-0.014543,DLR,All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],"East Ferry Road, Glengall Grove,[19] Crossharbour & London Arena[8]"
+Crouch_Hill,Crouch Hil,,,London Overground,,,2,,
+Croxley,Croxley,51.64733268,-0.441479115,Metropolitan,No ( Stairs from Platform level to booking hall),Three Rivers,7,2 November 1925,Croxley Green: 1925–49
+Crystal_Palace,Crystal Palace,,,London Overground,,,3 & 4,,
+Custom_House_for_ExCeL,Custom House,51.509731,0.026013,DLR,All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],"East Ferry Road, Glengall Grove,[19] Crossharbour & London Arena[8]"
+Cutty_Sark_for_Maritime_Greenwich,Cutty Sark,51.481713,-0.010811,DLR,All DLR stations are step-free.,Newham,3,28 March 1994[6],Custom House
+Cyprus,Cyprus,51.50836,0.06399,DLR,All DLR stations are step-free.,Newham,3,28 March 1994[6],–
+Dagenham_East,Dagenham East,51.54396,0.16439,District,,Barking and Dagenham,5,2 June 1902,Dagenham: 1888–1949
+Dagenham_Heathway,Dagenham Heathway,51.54173,0.14543,District,,Barking and Dagenham,5,12 September 1932,Heathway: 1932–1949
+Dalston_Junction,Dalston Junction,,,London Overground,,,2,,
+Dalston_Kingsland,Dalston Kingsland,,,London Overground,,,2,,
+Debden,Debden,51.64535,0.08364,Central,,Epping Forest,6,25 September 1949,Chigwell Road: 1865Chigwell Lane: 1865–1949
+Denmark_Hill,Denmark Hill,,,London Overground,,,2,,
+Deptford_Bridge,Deptford Bridge,51.478016,-0.022496,DLR,All DLR stations are step-free.,Lewisham,2 & 3,20 November 1999[6],Deptford Creek[20]
+Devons_Road,Devons Road,51.522274,-0.01708,DLR,All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],–
+Dollis_Hill,Dollis Hill,51.5525,-0.23884,Jubilee,,Brent,3,1 October 1909,
+Ealing_Broadway,Ealing Broadway,51.51482,-0.30118,"Central, District",,Ealing,3,1 July 1879,
+Ealing_Common,Ealing Common,51.50997,-0.28825,"District, Piccadilly",,Ealing,3,1 July 1879,Ealing Common: 1879–86Ealing Common and West Acton 1886–1910
+Earls_Court,Earl's Court,51.491521,-0.193906,"District, Piccadilly",,Kensington and Chelsea,1 & 2,30 October 1871resited 1 February 1878,
+East_Acton,East Acton,51.51753,-0.24827,Central,,Hammersmith and Fulham,2,3 August 1920,
+East_Finchley,East Finchley,51.58729747,-0.1649563231,Northern,,Barnet,3,3 July 1939,
+East_Ham_district,East Ham,51.53931,0.0526,"District, Hammersmith & City",,Newham,3 & 4,2 June 1902,
+East_Ham_hnc,East Ham,51.53931,0.0526,"District, Hammersmith & City",,Newham,3 & 4,2 June 1902,
+East_India,East India,51.509516,-0.002128,DLR,All DLR stations are step-free.,Tower Hamlets,2 & 3,28 March 1994[6],"Brunswick, Brunswick Wharf[21]"
+East_Putney,East Putney,51.459015,-0.211138,District,,Wandsworth,2 & 3,3 June 1889,
+Eastcote_metropolitan,Eastcote,51.57676,-0.39629,"Metropolitan, Piccadilly",,Hillingdon,5,26 May 1906,
+Eastcote_piccadilly,Eastcote,51.57676,-0.39629,"Metropolitan, Piccadilly",,Hillingdon,5,26 May 1906,
+Edgware,Edgware,51.61385,-0.27515,Northern,No (Stairs from Booking Hall to platforms),Barnet,5,18 August 1924,
+Edgware_Road_bakerloo,Edgware Road (Bakerloo Line),51.51956,-0.169068,Bakerloo,No (Escalator to platforms),City of Westminster,1,1 October 1863,
+Edgware_Road_circle,Edgware Road (Circle Line),51.520195,-0.166986,"Circle, District, Hammersmith & City",No (Stairs between platform and Booking hall),City of Westminster,1,1 October 1863,
+Edmonton_Green,Edmonton Green,,,London Overground,,,4,,
+Elephant_And_Castle,Elephant & Castle,51.49467,-0.10047,"Bakerloo, Northern",,Southwark,1 & 2,18 December 1890,
+Elm_Park,Elm Park,51.54969,0.19779,District,,Havering,6,13 May 1935,
+Elverson_Road,Elverson Road,51.468768,-0.016265,DLR,All DLR stations are step-free.,Greenwich,2 & 3,20 November 1999[6],–
+Embankment,Embankment,51.50717,-0.12195,"Bakerloo, Circle, District, Northern",,City of Westminster,1,30 May 1870,Charing Cross (District line): 1870–1915Embankment (Bakerloo line): 1906–14Charing Cross (Embankment) (Bakerloo & Northern lines): 1914–15Charing Cross: 1915–74Charing Cross Embankment: 1974–6
+Emerson_Park,Emerson Park,,,London Overground,,,6,,
+Enfield_Town,Enfield Town,,,London Overground,,,5,,
+Epping,Epping,51.69365,0.11495,Central,,Epping Forest,6,25 September 1949,
+Euston_Northern_Victoria,Euston,51.52774,-0.13303,"Northern, Victoria, London Overground",Unsure (Escalators to mainline station),Camden,1,22 June 1907,Melton Street: Proposed before opening
+Euston_Overground_NR,Euston,51.52774,-0.13303,"Northern, Victoria, London Overground",Unsure (Escalators to mainline station),Camden,1,22 June 1907,Melton Street: Proposed before opening
+Euston_Square_circle,Euston Square,51.52584,-0.1357,"Circle, Hammersmith & City, Metropolitan",No (Stairs from platform level),Camden,1,10 January 1863,Gower Street: 1863–1909
+Fairlop,Fairlop,51.59634,0.09125,Central,,Redbridge,4,31 May 1948,
+Farringdon_circle_base,Farringdon,51.520086,-0.104789,"Circle, Hammersmith & City, Metropolitan, Circle",No (Stairs to/from platform level),Islington,1,10 January 1863resited 23 December 1865,Farringdon Street: 1863–1922Farringdon & High Holborn: 1922–36
+Farringdon_circle_top,Farringdon,51.520086,-0.104789,"Circle, Hammersmith & City, Metropolitan, Circle",No (Stairs to/from platform level),Islington,1,10 January 1863resited 23 December 1865,Farringdon Street: 1863–1922Farringdon & High Holborn: 1922–36
+Farringdon_elizabeth_base,Farringdon,51.520086,-0.104789,Elizabeth,No (Stairs to/from platform level),Islington,1,10 January 1863resited 23 December 1865,Farringdon Street: 1863–1922Farringdon & High Holborn: 1922–36
+Farringdon_elizabeth_top,Farringdon,51.520086,-0.104789,Elizabeth,No (Stairs to/from platform level),Islington,1,10 January 1863resited 23 December 1865,Farringdon Street: 1863–1922Farringdon & High Holborn: 1922–36
+Finchley_Central,Finchley Central,51.60102,-0.1924,Northern,,Barnet,4,14 April 1940,Finchley & Hendon: 1867–72Finchley: 1872–96Finchley (Church End): 1896–1940
+Finchley_Road,Finchley Road,51.546701,-0.179867,"Jubilee, Metropolitan",No (Steps to/from platform level),Camden,2,30 June 1879,
+Finchley_Road_and_Frognal,Finchley Road and Frognal,51.54994,-0.18412,London Overground,,Camden,2,30 June 1879,
+Finsbury_Park,Finsbury Park,51.56498,-0.10543,"Piccadilly, Victoria",No (Steps at subsurface level),Islington,2,15 December 1906,
+Forest_Gate,Forest Gate,,,Elizabeth,,,3,,
+Forest_Hill,Forest Hill,,,London Overground,,,3,,
+Fulham_Broadway,Fulham Broadway,51.48033,-0.19488,District,Unsure,Hammersmith and Fulham,2,1 March 1880,Walham Green: 1880–1952
+Gallions_Reach,Gallions Reach,51.509111,0.071911,DLR,All DLR stations are step-free.,Newham,3,28 March 1994[6],–
+Gants_Hill,Gants Hill,51.57649,0.06637,Central,,Redbridge,4,14 December 1947,Ilford North/Cranbrook: Proposed before opening
+Gidea_Park,Gidea Park,,,,,,6,,
+Gloucester_Road,Gloucester Road,51.49408266,-0.17295341,"Circle, District, Piccadilly",,Kensington and Chelsea,1,1 October 1868,Brompton (Gloucester Road): 1868–1907
+Golders_Green,Golders Green,51.57249,-0.1941,Northern,,Barnet,3,22 June 1907,
+Goldhawk_Road_circle,Goldhawk Road,51.501248,-0.226776,"Hammersmith & City, Circle",,Hammersmith and Fulham,2,1 April 1914,
+Goldhawk_Road_hnc,Goldhawk Road,51.501248,-0.226776,"Hammersmith & City, Circle",,Hammersmith and Fulham,2,1 April 1914,
+Goodge_Street,Goodge Street,51.5206,-0.13441,Northern,Unsure ( Certainly has lifts),Camden,1,22 June 1907,Tottenham Court Road: 1907–08
+Goodmayes,Goodmayes,,,Elizabeth,,,4,,
+Gospel_Oak,Gospel Oak,51.55597,-0.15228,London Overground,,Camden,1,22 June 1907,Tottenham Court Road: 1907–08
+Grange_Hill,Grange Hill,51.61326,0.09258,Central,,Redbridge,4,21 November 1948,
+Great_Portland_Street_circle,Great Portland Street,51.52391,-0.14397,"Circle, Hammersmith & City, Metropolitan, Circle",No (Steps to/from platform level),City of Westminster,1,10 January 1863,Portland Road: 1863–1917Great Portland Street: 1917–23Great Portland Street & Regent's Park: 1923–33
+Great_Portland_Street_hnc,Great Portland Street,51.52391,-0.14397,"Circle, Hammersmith & City, Metropolitan, Circle",No (Steps to/from platform level),City of Westminster,1,10 January 1863,Portland Road: 1863–1917Great Portland Street: 1917–23Great Portland Street & Regent's Park: 1923–33
+Great_Portland_Street_metropolitan,Great Portland Street,51.52391,-0.14397,"Circle, Hammersmith & City, Metropolitan, Circle",No (Steps to/from platform level),City of Westminster,1,10 January 1863,Portland Road: 1863–1917Great Portland Street: 1917–23Great Portland Street & Regent's Park: 1923–33
+Green_Park,Green Park,51.50674,-0.14276,"Jubilee, Piccadilly, Victoria",Unsure ( Certainly escalators at subsurface),City of Westminster,1,10 January 1863,Portland Road: 1863–1917Great Portland Street: 1917–23Great Portland Street & Regent's Park: 1923–33
+Greenford,Greenford,51.542346,-0.345903,Central,,City of Westminster,1,15 December 1906,Dover Street: 1906–33
+Greenwich,Greenwich,51.478016,-0.015391,DLR,All DLR stations are step-free.,Greenwich,2 & 3,20 November 1999[6],–
+Gunnersbury,Gunnersbury,51.49126844,-0.275554312,District,,Hounslow,3,1 June 1877,Brentford Road: 1869–71
+Hackney_Central,Hackney Central,51.54689,-0.05784,London Overground,,Hounslow,3,1 June 1877,Brentford Road: 1869–71
+Hackney_Downs,Hackney Downs,,,London Overground,,,2,,
+Hackney_Wick,Hackney Wick,51.54348,-0.02474,London Overground,,Hounslow,3,1 June 1877,Brentford Road: 1869–71
+Haggerston,Haggerston,,,London Overground,,,1,,
+Hainault,Hainault,51.60288,0.09332,Central,,Redbridge,4,31 May 1948,
+Hammersmith_circle,Hammersmith (H&C Line),51.49419075,-0.225964953,"Hammersmith & City, Circle",,Hammersmith and Fulham,2,13 June 1864resited 1 December 1868,
+Hammersmith_district,Hammersmith (Dist&Picc Line),51.492328,-0.222825,"District, Piccadilly",,Hammersmith and Fulham,2,13 June 1864resited 1 December 1868,
+Hampstead,Hampstead,51.55645,-0.17851,Northern,Unsure (Has lifts),Camden,2 & 3,22 June 1907,Heath Street: Proposed before opening
+Hampstead_Heath,Hampstead Heath,51.55533,-0.16656,London Overground,,Camden,2 & 3,22 June 1907,Heath Street: Proposed before opening
+Hanger_Lane,Hanger Lane,51.53,-0.2929,Central,,Ealing,3,30 June 1947,
+Hanwell,Hanwell,,,Elizabeth,,,4,,
+Harlesden_bakerloo,Harlesden,51.53628278,-0.257622488,"Bakerloo, London Overground",,Brent,3,16 April 1917,
+Harlesden_overground,Harlesden,51.53628278,-0.257622488,"Bakerloo, London Overground",,Brent,3,16 April 1917,
+Harold_Wood,Harold Wood,,,Elizabeth,,,6,,
+Harringay_Green_Lanes,Harringay Green Lanes,,,London Overground,,,3,,
+Harrow_and_Wealdstone,Harrow & Wealdstone,51.59205973,-0.334725352,Bakerloo,,Harrow,5,16 April 1917,Harrow: 1837–97
+Harrow_on_the_Hill,Harrow-on-the-Hill,51.579335,-0.337052,Metropolitan,Steps (from street) and (to/from Platforms),Harrow,5,2 August 1880,Harrow: 1880–94
+Hatch_End,Hatch End,,,London Overground,,,6,,
+Hatton_Cross,Hatton Cross,51.466988,-0.423035,Piccadilly,,Hillingdon,5 & 6,19 July 1975,
+Hayes_and_Harlington,Hayes and Harlington,,,Elizabeth,,,5,,
+Headstone_Lane,Headstone Lane,,,London Overground,,,5,,
+Heathrow_23,Heathrow Terminals 1-2-3,51.4712899,-0.4527438,Piccadilly,,Hillingdon,6,27 March 2008,
+Heathrow_4_elizabeth,Heathrow Terminal 4,51.4594777,-0.44689658,"Piccadilly, Elizabeth",,Hillingdon,6,12 April 1986,
+Heathrow_4_piccadilly,Heathrow Terminal 4,51.4594777,-0.44689658,"Piccadilly, Elizabeth",,Hillingdon,6,12 April 1986,
+Heathrow_5_elizabeth,Heathrow Terminal 5,,,"Piccadilly, Elizabeth",,,6,,
+Heathrow_5_Piccadilly,Heathrow Terminal 5,,,"Piccadilly, Elizabeth",,,6,,
+Heathrow_Central,Heathrow Central,,,Elizabeth,,,6,,
+Hendon_Central,Hendon Central,51.58346,-0.22653,Northern,,Barnet,3 & 4,19 November 1923,
+Heron_Quays,Heron Quays,51.5046489,-0.0207681,DLR,All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],Heron Wharf[15]
+High_Barnet,High Barnet,51.6506519,-0.194138166,Northern,,Barnet,5,14 April 1940,
+High_Street_Kensington_circle,High Street Kensington,51.50034591,-0.192351664,"Circle, District",No ( Steps to/from platform),Kensington and Chelsea,1,1 October 1868,Kensington: Proposed before opening
+High_Street_Kensington_district,High Street Kensington,51.50034591,-0.192351664,"Circle, District",No ( Steps to/from platform),Kensington and Chelsea,1,1 October 1868,Kensington: Proposed before opening
+Highams_Park,HIghams Park,,,London Overground,,,4,,
+Highbury_and_Islington,Highbury & Islington,51.54502,-0.10752,"London Overground, Victoria, Northern City",,Kensington and Chelsea,1,1 October 1868,Kensington: Proposed before opening
+Highgate,Highgate,51.57722,-0.14553,Northern,No (Escaltors to platform level),Kensington and Chelsea,1,1 October 1868,Kensington: Proposed before opening
+Hillingdon_metropolitan,Hillingdon,51.55364,-0.45062,"Metropolitan, Piccadilly",,Hillingdon,6,10 December 1923resited 6 December 1992,Hillingdon: 1923–34Hillingdon (Swakeleys) 1934– suffix gradually dropped
+Hillingdon_piccadilly,Hillingdon,51.55364,-0.45062,"Metropolitan, Piccadilly",,Hillingdon,6,10 December 1923resited 6 December 1992,Hillingdon: 1923–34Hillingdon (Swakeleys) 1934– suffix gradually dropped
+Holborn,Holborn,51.51711,-0.12055,"Central, Piccadilly",Unsure,Camden,1,15 December 1906,Holborn: 1906–1933Holborn (Kingsway): 1933– suffix gradually dropped
+Holland_Park,Holland Park,51.50722,-0.20553,Central,,Kensington and Chelsea,2,30 July 1900,Lansdown Road: Proposed before opening
+Holloway_Road,Holloway Road,51.5529,-0.11278,Piccadilly,,Islington,2,15 December 1906,Holloway: Proposed before opening
+Homerton,Homerton,51.5471,-0.04323,London Overground,,Islington,2,15 December 1906,Holloway: Proposed before opening
+Honor_Oak_Park,Honor Oak Park,,,London Overground,,,3,,
+Hornchurch,Hornchurch,51.55387,0.21797,District,,Havering,6,2 June 1902,
+Hounslow_Central,Hounslow Central,51.47129,-0.365853,Piccadilly,,Hounslow,4,1 April 1886,Heston Hounslow: 1886–1925
+Hounslow_East,Hounslow East,51.47354,-0.356,Piccadilly,,Hounslow,4,2 May 1909,Hounslow Town: 1909–25
+Hounslow_West,Hounslow West,51.473689,-0.386471,Piccadilly,Lift for wheelchair users only.,Hounslow,5,21 July 1884,Hounslow Barracks: 1884–1925
+Hoxton,Hoxton,,,London Overground,,,"1,2",,
+Hyde_Park_Corner,Hyde Park Corner,51.50313,-0.15278,Piccadilly,,City of Westminster,1,15 December 1906,
+Ickenham,Ickenham,51.56147,-0.44257,"Metropolitan, Piccadilly",,Hillingdon,6,25 September 1905,
+Ilford,Ilford,,,Elizabeth,,,4,,
+Imperial_Wharf,Imperial Wharf,,,London Overground,,,2,,
+Island_Gardens,Island Gardens,51.488001,-0.011039,DLR,All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],"North Greenwich, Cubitt Town[19]"
+Iver,Iver,,,Elizabeth,,,,,
+Kennington,Kennington,51.48823,-0.10587,Northern,,Southwark,1 & 2,18 December 1890,New Street: Proposed before opening
+Kensal_Green_bakerloo,Kensal Green,51.53060655,-0.224253545,"Bakerloo, London Overground",,Brent,2,1 October 1916,
+Kensal_Green_overground,Kensal Green,51.53060655,-0.224253545,"Bakerloo, London Overground",,Brent,2,1 October 1916,
+Kensal_Rise,Kensal Rise,51.53387,-0.22145,London Overground,,Brent,2,1 October 1916,
+Kensington_Olympia,Kensington (Olympia),51.49675,-0.20931,District,Yes ( Seem to recall it's a flat access from one side of the concourse),Kensington and Chelsea,2,1 July 1864,Kensington: 1844–68Kensington (Addison Road): 1868–1946
+Kentish_Town,Kentish Town,51.55046,-0.14067,Northern,No ( Escalators to platform level),Camden,2,22 June 1907,
+Kentish_Town_West,Kentish Town West,51.54776,-0.14708,London Overground,,Camden,2,22 June 1907,
+Kenton,Kenton,51.58173809,-0.316870809,Bakerloo,,BrentHarrow,4,16 April 1917,
+Kew_Gardens_district,Kew Gardens,51.47725641,-0.284980014,"District, London Overground",,Richmond,3 & 4,1 June 1877,
+Kew_Gardens_overground,Kew Gardens,51.47725641,-0.284980014,"District, London Overground",,Richmond,3 & 4,1 June 1877,
+Kilburn,Kilburn,51.5471715,-0.205002,Jubilee,,Brent,2,24 November 1879,Kilburn and Brondesbury: 1879–1950
+Kilburn_High_Road,Kilburn High Road,,,London Overground,,,2,,
+Kilburn_Park,Kilburn Park,51.53495818,-0.193963023,Bakerloo,No (Escalators to platform level),Brent,2,31 January 1915,
+King_George_V,King George V,51.50202,0.06299,DLR,All DLR stations are step-free.,Newham,3,2 December 2005[23],North Woolwich[24]
+Kings_Cross_St_Pancras,King's Cross St.Pancras,51.53057,-0.12399,"Piccadilly, Circle, Victoria, Northern, Metropolitan, Hammersmith & City, Thameslink",Unsure (Escaltors to deep level platforms),Brent,2,31 January 1915,
+Kingsbury,Kingsbury,51.58422,-0.2788,Jubilee,,Camden,1,10 January 1863Metropolitan lineresited 9 March 1941,King's Cross (Metropolitan line): 1863–1925King's Cross & St. Pancras (Metropolitan line): 1925–33King's Cross (Piccadilly line): 1906–27King's Cross for St. Pancras (Piccadilly line): 1927–33King's Cross for St. Pancras (Northern line): 1907–33
+Knightsbridge,Knightsbridge,51.50169,-0.1603,Piccadilly,,Kensington and Chelsea,1,15 December 1906,Sloane Street: Proposed before opening
+Ladbroke_Grove_circle,Ladbroke Grove,51.5173,-0.21114,"Hammersmith & City, Circle",No (Steps to platform level),Kensington and Chelsea,2,13 June 1864,Notting Hill: 1864–80Notting Hill & Ladbroke Grove: 1880–1919Ladbroke Grove (North Kensington): 1919–38
+Ladbroke_Grove_hnc,Ladbroke Grove,51.5173,-0.21114,"Hammersmith & City, Circle",No (Steps to platform level),Kensington and Chelsea,2,13 June 1864,Notting Hill: 1864–80Notting Hill & Ladbroke Grove: 1880–1919Ladbroke Grove (North Kensington): 1919–38
+Lambeth_North,Lambeth North,51.49894,-0.11216,Bakerloo,,Lambeth,1,10 March 1906,Kennington Road: 1906 Westminster Bridge Road: 1906–17
+Lancaster_Gate,Lancaster Gate,51.512083,-0.175067,Central,,City of Westminster,1,30 July 1900,Westbourne: Proposed before opening
+Langdon_Park,Langdon Park,,,DLR,,,2,,
+Langley,Langley,,,Elizabeth,,,,,
+Latimer_Road_circle,Latimer Road,51.513125,-0.218428,"Hammersmith & City, Circle",,Kensington and Chelsea,2,16 December 1868,
+Latimer_Road_hnc,Latimer Road,51.513125,-0.218428,"Hammersmith & City, Circle",,Kensington and Chelsea,2,16 December 1868,
+Leicester_Square,Leicester Square,51.51148,-0.12849,"Northern, Piccadilly",,City of Westminster,1,15 December 1906,Cranbourn Street: Proposed before opening
+Lewisham,Lewisham,51.465216,-0.013166,DLR,All DLR stations are step-free.,Lewisham,2 & 3,20 November 1999[6],–
+Leyton,Leyton,51.556483,-0.005669,Central,,Waltham Forest,3,5 May 1947,Low Leyton: 1856–68
+Leyton_Midland_Road,Leyton Midland Road,,,London Overground,,,3,,
+Leytonstone,Leytonstone,51.56828,0.00739,Central,,Waltham Forest,3 & 4,5 May 1947,
+Leytonstone_High_Road,Leytonstone High Road,,,London Overground,,,3,,
+Limehouse,Limehouse,51.5124366,-0.0395511,DLR,All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],Stepney East[19]
+Liverpool_Street_circle_base,Liverpool Street,51.517675,-0.082458,"Central, Circle, Hammersmith & City, Metropolitan",,City of London,1,1 February 1875resited 12 July 1875,Bishopsgate: 1875–1909
+Liverpool_Street_circle_top,Liverpool Street,51.517675,-0.082458,"Central, Circle, Hammersmith & City, Metropolitan",,City of London,1,1 February 1875resited 12 July 1875,Bishopsgate: 1875–1909
+Liverpool_Street_elizabeth_base,Liverpool Street,51.517675,-0.082458,Elizabeth,,City of London,1,1 February 1875resited 12 July 1875,Bishopsgate: 1875–1909
+Liverpool_Street_elizabeth_top,Liverpool Street,51.517675,-0.082458,Elizabeth,,City of London,1,1 February 1875resited 12 July 1875,Bishopsgate: 1875–1909
+Liverpool_Street_nr,Liverpool Street,51.517675,-0.082458,Elizabeth,,City of London,1,1 February 1875resited 12 July 1875,Bishopsgate: 1875–1909
+London_Bridge,London Bridge,51.505353,-0.084826,"Jubilee, Northern",,Southwark,1,25 February 1900,
+London_City_Airport,London City Airport,51.50319,0.04864,DLR,All DLR stations are step-free.,Newham,3,2 December 2005[23],–
+London_Fields,London Fields,,,London Overground,,,2,,
+Loughton,Loughton,51.6417,0.05583,Central,,Epping Forest,6,21 November 1948,
+Maida_Vale,Maida Vale,51.52989409,-0.185888819,Bakerloo,,City of Westminster,2,6 June 1915,Elgin Avenue: Proposed before opening
+Maidenhead,Maidenhead,,,Elizabeth,,,,,
+Manor_House,Manor House,51.57038,-0.09601,Piccadilly,,HackneyHaringey,2 & 3,19 September 1932,
+Manor_Park,Manor Park,,,Elizabeth,,,3 & 4,,
+Mansion_House_circle,Mansion House,51.51256,-0.09397,"Circle, District",,City of London,1,3 July 1871,
+Mansion_House_district,Mansion House,51.51256,-0.09397,"Circle, District",,City of London,1,3 July 1871,
+Marble_Arch,Marble Arch,51.513597,-0.15869195,Central,,City of Westminster,1,30 July 1900,
+Maryland,Maryland,,,Elizabeth,,,3,,
+Marylebone,Marylebone,51.52266,-0.162996,Bakerloo,No (Escalators to platform level),City of Westminster,1,27 March 1907,Lisson Grove/Marylebone: Proposed before openingGreat Central: 1907–17
+Mile_End,Mile End,51.525306,-0.033471,"Central, District, Hammersmith & City",Unusure,Tower Hamlets,2,2 June 1902,
+Mill_Hill_East,Mill Hill East,51.60892,-0.20965,Northern,,Barnet,4,18 May 1941,Mill Hill: 1867–1928Bittacy Hill: Proposed 1940
+Moor_Park,Moor Park,51.62970512,-0.432070848,Metropolitan,No ( Steps to/from Platform level),City of London,1,6 October 1884,King William Street: Proposed before openingEast Cheap: 1884
+Moorgate_base,Moorgate,51.51817,-0.08859,"Northern, Circle, Hammersmith & City, Metropolitan, Northern City, Thameslink",No (Steps to 'surface' lines and escaltors to Deep),Three Rivers,6 & 7,9 May 1910,Sandy Lodge: 1910–23Moor Park & Sandy Lodge: 1923–50
+Moorgate_mid,Moorgate,51.51817,-0.08859,"Northern, Circle, Hammersmith & City, Metropolitan, Northern City, Thameslink",No (Steps to 'surface' lines and escaltors to Deep),Three Rivers,6 & 7,9 May 1910,Sandy Lodge: 1910–23Moor Park & Sandy Lodge: 1923–50
+Moorgate_top,Moorgate,51.51817,-0.08859,"Northern, Circle, Hammersmith & City, Metropolitan, Northern City, Thameslink",No (Steps to 'surface' lines and escaltors to Deep),Three Rivers,6 & 7,9 May 1910,Sandy Lodge: 1910–23Moor Park & Sandy Lodge: 1923–50
+Morden,Morden,51.40222413,-0.194599126,Northern,,Merton,4,13 September 1926,North Morden: Proposed before opening
+Mornington_Crescent,Mornington Crescent,51.53427,-0.13901,Northern,,Camden,2,22 June 1907,Seymour Street: Proposed before opening
+Mudchute,Mudchute,51.491185,-0.014595,DLR,All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],"Millwall Park, East Ferry Road[7]"
+Neasden,Neasden,51.55427,-0.25042,Jubilee,No (Steps to/from platform level),Brent,3,2 August 1880,Kingsbury & Neasden: 1880–1910Neasden & Kingsbury: 1910–32
+New_Cross,New Cross,51.477363,-0.0338817,East London,,Brent,3,2 August 1880,Kingsbury & Neasden: 1880–1910Neasden & Kingsbury: 1910–32
+New_Cross_Gate,New Cross Gate,51.47585,-0.04049,East London,,Brent,3,2 August 1880,Kingsbury & Neasden: 1880–1910Neasden & Kingsbury: 1910–32
+Newbury_Park,Newbury Park,51.57565,0.08927,Central,,Redbridge,4,14 December 1947,
+Nine_Elms,Nine Elms,51.48,-0.12846,Northern,Yes,Wandsworth,1,20 September 2021,
+North_Acton,North Acton,51.5237,-0.26019,Central,,Ealing,2 & 3,5 November 1923,
+North_Ealing,North Ealing,51.51807,-0.28838,Piccadilly,,Ealing,3,23 June 1903,
+North_Greenwich,North Greenwich,51.50056,0.0036,Jubilee,Unsure ( JLE was built as step free?),Greenwich,2 & 3,14 May 1999,
+North_Harrow,North Harrow,51.58503612,-0.362595264,Metropolitan,,Harrow,5,22 March 1915,
+North_Wembley_bakerloo,North Wembley,51.56258091,-0.304072648,"Bakerloo, Overground",,Brent,4,16 April 1917,
+North_Wembley_overground,North Wembley,51.56258091,-0.304072648,"Bakerloo, Overground",,Brent,4,16 April 1917,
+Northfields,Northfields,51.499856,-0.313188,Piccadilly,,Ealing,3,16 April 1908resited 19 May 1932,Northfield Halt: 1908–11Northfields & Little Ealing: 1911–32
+Northolt,Northolt,51.548467,-0.36968,Central,,Ealing,5,21 November 1948,
+Northwick_Park,Northwick Park,51.57850117,-0.317857023,Metropolitan,,Brent,4,28 June 1923,Northwick Park & Kenton: 1923–33
+Northwood,Northwood,51.61098984,-0.423584422,Metropolitan,No ( Steps to/from platform level),Hillingdon,6,1 September 1887,
+Northwood_Hills,Northwood Hills,51.60043795,-0.408812575,Metropolitan,,Hillingdon,6,13 November 1933,
+Norwood_Junction,Norwood Junction,,,London Overground,,,4,,
+Notting_Hill_Gate,Notting Hill Gate,51.509028,-0.1962847,"Central, Circle, District",No ( Steps to 'surface' platforms),Kensington and Chelsea,1 & 2,1 October 1868,
+Oakwood,Oakwood,51.64739,-0.13192,Piccadilly,Yes,Enfield,5,13 March 1933,East Barnet/Merryhills: Proposed before openingEnfield West: 1933–34 Enfield West (Oakwood): 1934–46
+Old_Street,Old Street,51.52618,-0.08751,"Northern, Northern City",Unsure,IslingtonHackney,1,17 November 1901,
+Osterley,Osterley,51.481569,-0.35196,Piccadilly,,Hounslow,4,1 May 1883resited 25 March 1934,Osterley & Spring Grove: 1883–1934
+Oval,Oval,51.48214,-0.11284,Northern,,Lambeth,2,18 December 1890,Kennington Oval: Proposed before openingThe Oval: 1890–94
+Oxford_Circus,Oxford Circus,51.51517,-0.14119,"Bakerloo, Central, Victoria",No (Escalators),City of Westminster,1,30 July 1900,
+Paddington_deep_base,Paddington,51.51518466,-0.1755388079,"Circle, District",No (Steps to platform level),City of Westminster,1,10 January 1863,Paddington (Bishop's Road): 1863–1933
+Paddington_deep_top,Paddington,51.51518466,-0.1755388079,"Circle, District",No (Steps to platform level),City of Westminster,1,10 January 1863,Paddington (Bishop's Road): 1863–1933
+Paddington_elizabeth_base,Paddington,51.51518466,-0.1755388079,Elizabeth,No (Steps to platform level),City of Westminster,1,10 January 1863,Paddington (Bishop's Road): 1863–1933
+Paddington_elizabeth_top,Paddington,51.51518466,-0.1755388079,Elizabeth,No (Steps to platform level),City of Westminster,1,10 January 1863,Paddington (Bishop's Road): 1863–1933
+Paddington_nr,Paddington,51.51518466,-0.1755388079,Elizabeth,No (Steps to platform level),City of Westminster,1,10 January 1863,Paddington (Bishop's Road): 1863–1933
+Paddington_osi,Paddington,51.51518466,-0.1755388079,Elizabeth,No (Steps to platform level),City of Westminster,1,10 January 1863,Paddington (Bishop's Road): 1863–1933
+Paddington_surface,Paddington (H&C Line),51.51909671,-0.176968859,"Hammersmith and City, Circle",Unsure ( Access via bridge from mainline concourse),City of Westminster,1,10 January 1863,Paddington (Bishop's Road): 1863–1933
+Park_Royal,Park Royal,51.52671,-0.28417,Piccadilly,,Ealing,3,23 June 1903resited 6 July 1931,Park Royal & Tywford Abbey: 1903–31Park Royal: 1931–36Park Royal (Hanger Hill): 1936–47
+Parsons_Green,Parsons Green,51.47488,-0.20205,District,,Hammersmith and Fulham,2,1 March 1880,
+Peckham_Rye,Peckham Rye,,,London Overground,,,2,,
+Penge_West,Penge West,,,London Overground,,,4,,
+Perivale,Perivale,51.536673,-0.32391,Central,,Ealing,4,30 June 1947,Perivale Halt: 1904–1947
+Piccadilly_Circus,Piccadilly Circus,51.51022,-0.13392,"Piccadilly, Bakerloo",No (Escalator to Platform level),City of Westminster,1,10 March 1906,
+Pimlico,Pimlico,51.489081,-0.133037,Victoria,,City of Westminster,1,14 September 1972,
+Pinner,Pinner,51.59270271,-0.380539158,Metropolitan,,Harrow,5,25 May 1885,
+Plaistow_district,Plaistow,51.53122,0.01659,"District, Hammersmith & City",,Newham,3,2 June 1902,
+Plaistow_hnc,Plaistow,51.53122,0.01659,"District, Hammersmith & City",,Newham,3,2 June 1902,
+Pontoon_Dock,Pontoon Dock,51.50205,0.03308,DLR,All DLR stations are step-free.,Newham,3,2 December 2005[23],–
+Poplar,Poplar,51.507725,-0.016503,DLR,All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],–
+Preston_Road,Preston Road,51.57229051,-0.295813875,Metropolitan,,Brent,4,21 May 1908resited 3 January 1932,
+Prince_Regent,Prince Regent,51.509471,0.033473,DLR,All DLR stations are step-free.,Newham,3,28 March 1994[6],Prince Regent Lane[27]
+Pudding_Mill_Lane,Pudding Mill Lane,51.5339,-0.0142,DLR,All DLR stations are step-free.,Newham,2 & 3,15 January 1996[12][28],Marshgate Lane[29]
+Putney_Bridge,Putney Bridge,51.46868,-0.2088141,District,,Hammersmith and Fulham,2,1 March 1880,Putney Bridge & Fulham: 1880–1902Putney Bridge & Hurlingham: 1902–32
+Queens_Park,Queen's Park,51.534179,-0.205257721,Bakerloo,,Brent,2,11 February 1915,Queen's Park (West Kilburn): 1879–1915
+Queens_Road_Peckham,Queens Road Peckham,,,London Overground,,,2,,
+Queensbury,Queensbury,51.59437,-0.28655,Jubilee,,Brent,4,16 December 1934,
+Queensway,Queensway,51.510484,-0.18705,Central,,City of Westminster,1,30 July 1900,Queen's Road: 1900–46
+Ravenscourt_Park,Ravenscourt Park,51.49419,-0.2356,District,,Hammersmith and Fulham,2,1 June 1877,Shaftesbury Road: 1877–88
+Rayners_Lane,Rayners Lane,51.57534,-0.3724,"Metropolitan, Piccadilly",No (Steps to/from Platform level),Harrow,5,26 May 1906,
+Reading,Reading,,,Elizabeth,,,,,
+Rectory_Road,Rectory Road,,,London Overground,,,2,,
+Redbridge,Redbridge,51.57618,0.04542,Central,,Redbridge,4,14 December 1947,Ilford West/Red House: Proposed before opening
+Regents_Park,Regent's Park,51.52344,-0.14713,Bakerloo,,City of Westminster,1,10 March 1906,
+Renwick_Road,Renwick Road,,,London Overground,,,4,,
+Richmond,Richmond,51.4632474,-0.300618047,District,,Richmond,4,1 June 1877,
+Rickmansworth,Rickmansworth,51.64027898,-0.473521454,Metropolitan,Unsure ( Station has flat access to S/B but also has a subway),Three Rivers,7,1 September 1887,
+Roding_Valley,Roding Valley,51.61691,0.04264,Central,,Epping ForestRedbridge,4,21 November 1948,
+Romford,Romford,,,"Elizabeth, London Overground",,,6,,
+Rotherhithe,Rotherhithe,51.50089,-0.05211,East London,,Epping ForestRedbridge,4,21 November 1948,
+Royal_Albert,Royal Albert,51.508456,0.046148,DLR,All DLR stations are step-free.,Newham,3,28 March 1994[6],
+Royal_Oak_circle,Royal Oak,51.519383,-0.187785,"Hammersmith & City, Circle",,City of Westminster,2,30 October 1871,
+Royal_Oak_hnc,Royal Oak,51.519383,-0.187785,"Hammersmith & City, Circle",,City of Westminster,2,30 October 1871,
+Royal_Victoria,Royal Victoria,51.509156,0.018083,DLR,All DLR stations are step-free.,Newham,3,28 March 1994[6],
+Ruislip_Gardens,Ruislip Gardens,51.560711,-0.410587,Central,,Hillingdon,5,29 November 1948,
+Ruislip_Manor_metropolitan,Ruislip Manor,51.57349,-0.41185,"Metropolitan, Piccadilly",,Hillingdon,6,5 August 1912,–
+Ruislip_Manor_piccadilly,Ruislip Manor,51.57349,-0.41185,"Metropolitan, Piccadilly",,Hillingdon,6,5 August 1912,–
+Ruislip_metropolitan,Ruislip,51.57146,-0.42157,"Metropolitan, Piccadilly",,Hillingdon,6,4 July 1904,–
+Ruislip_piccadilly,Ruislip,51.57146,-0.42157,"Metropolitan, Piccadilly",,Hillingdon,6,4 July 1904,–
+Russell_Square,Russell Square,51.523243,-0.124336,Piccadilly,,Camden,1,15 December 1906,
+Seven_Kings,Seven Kings,,,Elizabeth,,,4,,
+Seven_Sisters,Seven Sisters,51.58318,-0.07495,Victoria,,Haringey,3,1 September 1968,
+Shadwell,Shadwell,51.511853,-0.05548,"DLR, London Overground",All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],–
+Shenfield,Shenfield,,,Elizabeth,,,9,,
+Shepherds_Bush_Market_circle,Shepherd's Bush Market,51.506063,-0.226231,"Hammersmith & City, Circle",,Hammersmith and Fulham,2,13 June 1864resited 1 April 1914,Shepherd's Bush: 1864–2008
+Shepherds_Bush_Market_hnc,Shepherd's Bush Market,51.506063,-0.226231,"Hammersmith & City, Circle",,Hammersmith and Fulham,2,13 June 1864resited 1 April 1914,Shepherd's Bush: 1864–2008
+Shepherds_Bush_nr,Shepherd's Bush,51.50474,-0.21881,"Central, London Overground",,Hammersmith and Fulham,2,15 December 1906,
+Shepherds_Bush_tube,Shepherd's Bush,51.50474,-0.21881,"Central, London Overground",,Hammersmith and Fulham,2,15 December 1906,
+Shoreditch_High_Street,Shoreditch High Street,,,London Overground,,,1,,
+Silver_Street,Silver Street,,,London Overground,,,4,,
+Sloane_Square_circle,Sloane Square,51.49258474,-0.156090904,"Circle, District",,Kensington and Chelsea,1,24 December 1868,
+Sloane_Square_district,Sloane Square,51.49258474,-0.156090904,"Circle, District",,Kensington and Chelsea,1,24 December 1868,
+Slough,Slough,,,Elizabeth,,,,,
+Snaresbrook,Snaresbrook,51.58002,0.02133,Central,,Redbridge,4,14 December 1947,Snaresbrook & Wanstead: 1856–1947
+South_Acton,South Acton,51.49960784,-0.270187631,London Overground,,Redbridge,4,14 December 1947,Snaresbrook & Wanstead: 1856–1947
+South_Ealing,South Ealing,51.500801,-0.307856,Piccadilly,,Ealing,3,1 May 1883,
+South_Hampstead,South Hampstead,,,London Overground,,,2,,
+South_Harrow,South Harrow,51.56461,-0.3521,Piccadilly,,Harrow,5,28 June 1903resited 5 July 1935,
+South_Kensington,South Kensington,51.494066,-0.172791,"Circle, District, Piccadilly",Unsure (Steps from/to 'surface' platforms?).,Kensington and Chelsea,1,24 December 1868,
+South_Kenton_bakerloo,South Kenton,51.57044666,-0.308566354,"Bakerloo, Overground",,Brent,4,3 July 1933,
+South_Kenton_overground,South Kenton,51.57044666,-0.308566354,"Bakerloo, Overground",,Brent,4,3 July 1933,
+South_Quay,South Quay,51.500413,-0.018636,DLR,All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],Cuba Street[15]
+South_Ruislip,South Ruislip,51.556795,-0.398708,Central,,Hillingdon,5,23 November 1948,Northolt Junction: 1908–32South Ruislip & Northolt Junction: 1932–47
+South_Tottenham,South Tottenham,,,London Overground,,,3,,
+South_Wimbledon,South Wimbledon,51.41543048,-0.192262754,Northern,,Merton,3 & 4,13 September 1926,Merton Grove: Proposed before openingSouth Wimbledon: 1926–28South Wimbledon (Merton): 1928– suffix gradually dropped
+South_Woodford,South Woodford,51.59088,0.02726,Central,,Redbridge,4,14 December 1947,George Lane: 1856–1937South Woodford (George Lane): 1937–50
+Southall,Southall,,,Elizabeth,,,4,,
+Southbury,Southbury,,,London Overground,,,5,,
+Southfields,Southfields,51.444941,-0.206466,District,,Wandsworth,3,3 June 1889,
+Southgate,Southgate,51.6324,-0.12765,Piccadilly,,Enfield,4,13 March 1933,Chase Side: Proposed before opening
+Southwark,Southwark,51.50384,-0.10478,Jubilee,,Southwark,1,24 September 1999,
+St_James_Street,St. James Street,,,London Overground,,,3,,
+St_Jamess_Park_circle,St.James's Park,51.49971,-0.13394,"Circle, District",,Southwark,1,24 September 1999,
+St_Jamess_Park_district,St.James's Park,51.49971,-0.13394,"Circle, District",,Southwark,1,24 September 1999,
+St_Johns_Wood,St.John's Wood,51.53472,-0.17428,Jubilee,No (Escalators),Southwark,1,24 September 1999,
+St_Pauls,St.Paul's,51.515285,-0.097598,Central,,Southwark,1,24 September 1999,
+Stamford_Brook,Stamford Brook,51.494935,-0.24619,District,,Hammersmith and Fulham,2,1 February 1912,
+Stamford_Hill,Stamford Hill,,,London Overground,,,3,,
+Stanmore,Stanmore,51.61895,-0.30241,Jubilee,"Unsure ( I seem to recall a long flight of steps from street level to the cutting in which the platforms are.ShakespeareFan00 20:17, 3 July 2009 (UTC))",Harrow,5,10 December 1932,
+Star_Lane,Star Lane,,,DLR,,Newham,2 & 3,31 August 2011,
+Stepney_Green_district,Stepney Green,51.521884,-0.046546,"District, Hammersmith & City",,Tower Hamlets,2,23 June 1902,
+Stepney_Green_hnc,Stepney Green,51.521884,-0.046546,"District, Hammersmith & City",,Tower Hamlets,2,23 June 1902,
+Stockwell,Stockwell,51.47224,-0.1227,"Northern, Victoria",,Lambeth,2,18 December 1890,
+Stoke_Newington,Stoke Newington,,,London Overground,,,2,,
+Stonebridge_Park_bakerloo,Stonebridge Park,51.54402388,-0.275978856,"Bakerloo, London Overground",,Brent,3,16 April 1917,
+Stonebridge_Park_overground,Stonebridge Park,51.54402388,-0.275978856,"Bakerloo, London Overground",,Brent,3,16 April 1917,
+Stratford,Stratford,51.541146,-0.002675,"Central, Jubilee, London Overground, DLR",Unsure- (Steps at the very least),Newham,2 & 3,4 December 1946,Cody Road[32]
+Stratford_High_Street,Stratford High Street,,,,,Newham,3,31 August 2011,Stratford Market
+Stratford_International,Stratford International,,,,,Newham,3,31 August 2011,
+Sudbury_Hill,Sudbury Hill,51.556998,-0.335949,Piccadilly,,EalingHarrow,4,28 June 1903,
+Sudbury_Town,Sudbury Town,51.55093,-0.31598,Piccadilly,,BrentEaling,4,28 June 1903,
+Surrey_Canal,Surrey Canal,,,London Overground,,,2,,
+Surrey_Quays,Surrey Quays,51.49365,-0.04816,"East London, Jubilee",,BrentEaling,4,28 June 1903,
+Swiss_Cottage,Swiss Cottage,51.54333,-0.17436,Jubilee,,Camden,2,20 November 1939,
+Sydenham,Sydenham,,,London Overground,,,3,,
+Taplow,Taplow,,,Elizabeth,,,,,
+Temple_circle,Temple,51.51114,-0.11341,"Circle, District",,City of Westminster,1,30 May 1870,
+Temple_district,Temple,51.51114,-0.11341,"Circle, District",,City of Westminster,1,30 May 1870,
+Theobalds_Grove,Temple,51.51114,-0.11341,"Circle, District",,City of Westminster,1,30 May 1870,
+Theydon_Bois,Theydon Bois,51.67246,0.10354,Central,,Epping Forest,6,25 September 1949,Theydon: 1865
+Tooting_Bec,Tooting Bec,51.43578971,-0.159635693,Northern,,Wandsworth,3,13 September 1926,Trinity Road (Tooting Bec): 1926–50
+Tooting_Broadway,Tooting Broadway,51.42780008,-0.167910811,Northern,,Wandsworth,3,13 September 1926,
+Tottenham_Court_Road,Tottenham Court Road,51.51672074,-0.13093911,"Central, Northern",No (Steps from street level/Escaltors),City of Westminster,1,30 July 1900,Oxford Street (Northern line): 1907–08
+Tottenham_Hale,Tottenham Hale,51.588878,-0.059808,Victoria,,Haringey,3,1 September 1968,
+Totteridge_And_Whetstone,Totteridge & Whetstone,51.63022,-0.17917,Northern,,Barnet,4,14 April 1940,Totteridge: 1872–74
+Tower_Gateway,Tower Gateway,51.510911,-0.073466,DLR,All DLR stations are step-free.,City of London,1,31 August 1987[6],"Tower Hill, Minories[19]"
+Tower_Hill,Tower Hill,51.50991,-0.076813,"Circle, District",No (Steps from street level),Tower Hamlets,1,25 September 1882resited 12 October 1884resited 5 February 1967,Tower of London: 1882–84Mark Lane: 1884–1946
+Tufnell_Park,Tufnell Park,51.55663,-0.13813,Northern,,Islington,2,22 June 1907,
+Turkey_Street,Turkey Street,,,London Overground,,,6,,
+Turnham_Green_district,Turnham Green,51.495143,-0.25406,District,,Hounslow,2 & 3,1 June 1877,
+Turnham_Green_piccadilly,Turnham Green,51.495143,-0.25406,District,,Hounslow,2 & 3,1 June 1877,
+Turnpike_Lane,Turnpike Lane,51.59031,-0.10308,Piccadilly,No (Escalators),Haringey,3,19 September 1932,Ducketts Green/Harringay: Proposed before opening
+Twyford, Twyford,,,Elizabeth,,,,,
+Upminster,Upminster,51.55925,0.25177,District,,Havering,6,2 June 1902,
+Upminster_Bridge,Upminster Bridge,51.55847,0.23509,District,,Havering,6,17 December 1934,
+Upney,Upney,51.53824,0.09998,District,,Barking and Dagenham,4,12 September 1932,
+Upper_Holloway,Upper Holloway,,,London Overground,,,2,,
+Upton_Park_district,Upton Park,51.53514,0.03373,"District, Hammersmith & City",,Newham,3,2 June 1902,
+Upton_Park_hnc,Upton Park,51.53514,0.03373,"District, Hammersmith & City",,Newham,3,2 June 1902,
+Uxbridge_metropolitan,Uxbridge,51.54687,-0.47725,"Piccadilly, Metropolitan",Yes ( Flat access from street),Hillingdon,6,4 July 1904resited 4 December 1938,
+Uxbridge_piccadilly,Uxbridge,51.54687,-0.47725,"Piccadilly, Metropolitan",Yes ( Flat access from street),Hillingdon,6,4 July 1904resited 4 December 1938,
+Vauxhall,Vauxhall,51.48603,-0.12369,Victoria,No ( Escalators),Lambeth,1 & 2,23 July 1971,
+Victoria,Victoria,51.49662869,-0.14400853,"Circle, District, Victoria",No ( Steps from street level/ Escalators),City of Westminster,1,24 December 1868,
+Walthamstow_Central,Walthamstow Central,51.58293,-0.01996,Victoria,No ( Steps to Booking hall),Waltham Forest,3,1 September 1968,
+Walthamstow_Queens_Road,Walthamstow Queen's Road,,,London Overground,,,3,,
+Wandsworth_Road,Wandsworth Road,,,London Overground,,,2,,
+Wanstead,Wanstead,51.57565,0.02864,Central,,Redbridge,4,14 December 1947,
+Wanstead_Park,Wanstead Park,,,London Overground,,,3,,
+Wapping,Wapping,51.50451,-0.05607,East London,,Redbridge,4,14 December 1947,
+Warren_Street,Warren Street,51.5245,-0.1381,"Northern, Victoria",No (Escalators),Camden,1,22 June 1907,Euston Road: 1907–08
+Warwick_Avenue,Warwick Avenue,51.52329728,-0.183777837,Bakerloo,,City of Westminster,2,31 January 1915,Warrington Crescent: Proposed before opening
+Waterloo,Waterloo,51.50322,-0.11328,"Bakerloo, Northern, Waterloo & City",Unsure ( JLE-Eurostar was built as step-free?),Lambeth,1,10 March 1906,
+Watford,Watford,51.65741058,-0.41745306,Metropolitan,Yes ( Flat access from street IIRC),Watford,7,2 November 1925,
+Watford_High_Street,Watford High Street,,,London Overground,,,8,,
+Watford_Junction,Watford Junction,,,London Overground,,,,,
+Wembley_Central,Wembley Central,51.55122817,-0.29577538,Bakerloo,,Brent,4,16 April 1917,Sudbury: 1842–82Sudbury & Wembley: 1882–1910Wembley for Sudbury: 1910–48
+Wembley_Park,Wembley Park,51.56355598,-0.279770242,"Jubilee, Metropolitan",Unsure (Did have steps to/from platform?),Brent,4,12 May 1894,
+West_Acton,West Acton,51.51818,-0.28064,Central,,Ealing,3,5 November 1923,
+West_Brompton,West Brompton,51.48681,-0.19475,District,,Kensington and Chelsea,2,12 April 1869,Richmond Road: Proposed before opening
+West_Croydon,West Croydon,,,London Overground,,,5,,
+West_Drayton,West Drayton,,,Elizabeth,,,6,,
+West_Ealing,West Ealing,,,Elizabeth,,,3,,
+West_Finchley,West Finchley,51.60922281,-0.1887111523,Northern,,Barnet,4,14 April 1940,
+West_Ham,West Ham,51.527917,0.004141,"District, Hammersmith & City, Jubilee",,Newham,2 & 3,2 June 1902,West Ham: 1901–1924West Ham (Manor Road): 1924–69
+West_Hampstead,West Hampstead,51.54716,-0.19275,"London Overground, Jubilee",,Camden,2,30 June 1879,
+West_Harrow,West Harrow,51.5795432,-0.353144584,Metropolitan,,Harrow,5,17 November 1913,
+West_India_Quay,West India Quay,51.506723,-0.01988,DLR,All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],"West India Dock, North Quay[15]"
+West_Kensington,West Kensington,51.49085,-0.20532,District,,Hammersmith and Fulham,2,9 September 1874,North End (Fulham): 1874–77
+West_Ruislip,West Ruislip,51.569324,-0.43674,Central,,Hillingdon,6,21 November 1948,Ruislip & Ickenham: 1906–47West Ruislip (for Ickenham): 1947– suffix gradually dropped
+West_Silvertown,West Silvertown,51.50335,0.02208,DLR,All DLR stations are step-free.,Newham,3,2 December 2005[23],–
+Westbourne_Park_circle,Westbourne Park,51.520995,-0.201778,"Hammersmith & City, Circle",,City of Westminster,2,1 February 1866resited 1 November 1871,
+Westbourne_Park_hnc,Westbourne Park,51.520995,-0.201778,"Hammersmith & City, Circle",,City of Westminster,2,1 February 1866resited 1 November 1871,
+Westferry,Westferry,51.509576,-0.02699,DLR,All DLR stations are step-free.,Tower Hamlets,2,31 August 1987[6],West Ferry Road[33]
+Westminster,Westminster,51.50121,-0.12489,"Circle, District, Jubilee",Unsure (Escalators),City of Westminster,1,24 December 1868,Westminster Bridge: 1868–1907
+White_City,White City,51.512206,-0.224226,Central,,Hammersmith and Fulham,2,23 November 1947,
+White_Hart_Lane,White Hart Lane,,,London Overground,,,3,,
+Whitechapel,Whitechapel,51.51946,-0.05951,"District, East London, Hammersmith & City",,Tower Hamlets,2,1 October 1884,Whitechapel (Mile End): 1884–1901
+Willesden_Green,Willesden Green,51.54919,-0.22106,Jubilee,,Brent,2 & 3,24 November 1879,
+Willesden_Junction,Willesden Junction,51.53032031,-0.229378995,"Bakerloo, Overground",,Brent,2 & 3,10 May 1915,
+Wimbledon,Wimbledon,51.422,-0.20544,District,Unsure,Merton,3,3 June 1889,
+Wimbledon_Park,Wimbledon Park,51.43391,-0.19864,District,,Merton,3,3 June 1889,
+Wood_Green,Wood Green,51.59709,-0.10939,Piccadilly,No (Escalators),Haringey,3,19 September 1932,Lordship Lane: Proposed before opening
+Wood_Lane,Wood Lane,,,"Hammersmith & City, Circle",,,2,,
+Wood_Street,Wood Street,,,London Overgound,,,4,,
+Woodford,Woodford,51.60582,0.03328,Central,,Redbridge,4,14 December 1947,
+Woodgrange_Park,Woodgrange Park,,,London Overgound,,,3 & 4,,
+Woodside_Park,Woodside Park,51.61817173,-0.1855788879,Northern,,Barnet,4,12 April 1940,"Torrington Park, Woodside: 1872–82Woodside Park for North Finchley: 1882–1931Woodside Park and North Finchley for Woodside Garden Suburb: 1931–40"
+Woolwich,Woolwich,,,Elizabeth,,,4,,
+Woolwich_Arsenal,Woolwich Arsenal,,,DLR,,,4,,

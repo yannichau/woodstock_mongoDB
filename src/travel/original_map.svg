@@ -2617,7 +2617,7 @@
 						V 585
 						" />
 					</g>
-					<use xlink:href="#Aldgate-Tower_Gateway_osi_base" class="osi" />
+					<use xlink:href="#Aldgate-Tower_Gateway_osi_base" class="osi" id="Aldgate"/>
 				</g>
 				<use xlink:href="#int" x="1601.5" y="541.5" id="Aldgate" />
 			</g>

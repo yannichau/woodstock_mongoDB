@@ -1,0 +1,917 @@
+			<use xlink:href="#term" class="sbakerloo" />
+			<use xlink:href="#term" class="scentral" />
+			<use xlink:href="#term" class="scircle" />
+			<use xlink:href="#term" class="sdistrict" />
+			<use xlink:href="#term" class="shnc" />
+			<use xlink:href="#term" class="sjubilee" />
+			<use xlink:href="#term" class="smetropolitan" />
+			<use xlink:href="#termb" class="meb" style="stroke:#fff" />
+			<use xlink:href="#termmetropolitan" />
+			<use xlink:href="#term" class="snorthern" />
+			<use xlink:href="#term" class="spiccadilly" />
+			<use xlink:href="#term" class="svictoria" />
+			<use xlink:href="#term" class="sdlr" />
+			<use xlink:href="#term" class="sog" />
+			<use xlink:href="#term" class="selizabeth" />
+			<use xlink:href="#termx" class="selizabeth" />
+			<use xlink:href="#termx" class="snorthern" />
+			<use xlink:href="#termx" class="sog" />
+			<use xlink:href="#st" class="sbakerloo" />
+			<use xlink:href="#st" class="scentral" />
+			<use xlink:href="#stb" class="meb bcircle" />
+			<use xlink:href="#st" class="scircle" />
+			<use xlink:href="#st" class="sdistrict" />
+			<use xlink:href="#stb" class="meb bhnc" />
+			<use xlink:href="#st" class="shnc" />
+			<use xlink:href="#st" class="sjubilee" />
+			<use xlink:href="#st" class="smetropolitan" />
+			<use xlink:href="#stb" class="meb" style="stroke:#fff" />
+			<use xlink:href="#stmetropolitan" />
+			<use xlink:href="#st" class="snorthern" />
+			<use xlink:href="#st" class="spiccadilly" />
+			<use xlink:href="#stb" class="meb" style="stroke:#fff" />
+			<use xlink:href="#stpiccadilly" />
+			<use xlink:href="#st" class="svictoria" />
+			<use xlink:href="#st" class="sdlr" />
+			<use xlink:href="#st" class="sog" />
+			<use xlink:href="#st" class="selizabeth" />
+			<use xlink:href="#st" class="sgreenford" />
+			<use xlink:href="#stx" class="smetropolitan" />
+			<use xlink:href="#stxm" />
+			<use xlink:href="#stx" class="snorthern" />
+			<use xlink:href="#stxm" />
+			<use xlink:href="#stx" class="sog" />
+			<use xlink:href="#stxm" />
+			<use xlink:href="#stx" class="spiccadilly" />
+			<use xlink:href="#stx" class="selizabeth" />
+			<use xlink:href="#stxm" />
+			<use xlink:href="#stx" class="sgreenford" />
+			<use xlink:href="#stxm" />
+			<use xlink:href="#sttl" />
+			<use xlink:href="#nr" />
+			<use xlink:href="#nr" />
+					<use xlink:href="#zone1_base" />
+				<title>Special fares apply. Oyster card inapplicable because of technical limitations. Use other
+				<use xlink:href="#Reading_zone_base" />
+				<title>Special fares apply. Oyster card inapplicable because of technical limitations. Use other
+				<rect x="1252.5" y="149" width="130" height="20" rx="10" id="Manor_House_zone" />
+			<use xlink:href="#enabled" x="-25" y="-80" />
+				<use xlink:href="#Elizabeth_route_x" class="mex" id="Elizabeth_x_stripe" />
+				<use xlink:href="#Elizabeth_route" class="mes" id="Elizabeth_stripe" />
+				<use xlink:href="#Elizabeth_Heathrow_route" class="mes" id="Elizabeth_Heathrow_stripe" />
+			<use xlink:href="#Greenford_Branch_Line_route" class="mex"/>
+			<use xlink:href="#Waterloo_and_City_line_route" class="swnc2" />
+		<use xlink:href="#Hammersmith_and_City_line_route" class="meb bhnc" />
+		<use xlink:href="#Circle_line_route" class="meb bcircle" />
+		<use xlink:href="#STRg" x="68" y="976.5" />
+		<use xlink:href="#STRg" transform="translate(126,973)rotate(233.13)" />
+			<use xlink:href="#DLR_routes" class="sdlr2" id="DLR_routes_stripe" />
+			<use xlink:href="#District_Olympia_branch" class="branch" id="District_Olympia_branch_stripe" />
+			<use xlink:href="#North_and_West_London_Lines_route" class="mes" />
+			<use xlink:href="#Watford_DC_Line_route" class="mes" id="Watford_DC_Line_stripe" />
+				<use xlink:href="#Metropolitan_line_Croxley_extension_base" id="Metropolitan_line_Croxley_extension"/>
+			<use xlink:href="#Watford_DC_Line_route_over" class="mes" id="Watford_DC_Line_over_stripe" />
+			<use xlink:href="#Elizabeth_Shenfield_route" class="mes" id="Elizabeth_Shenfield_stripe" />
+					<use xlink:href="#Gospel_Oak_to_Barking_Line_extension_route" />
+				<use xlink:href="#Gospel_Oak_to_Barking_Line_route" class="mes" />
+				<use xlink:href="#Seven_Sisters_Line_routes" class="mes" id="Seven_Sisters_Line_routes_stripe" />
+				<use xlink:href="#Chingford_Line_route" class="mes" id="Chingford_Line_route_stripe"/>
+				<use xlink:href="#Romford_to_Upminster_Line_route" class="mes" />
+				<use xlink:href="#East_London_Line_Battersea_Park_branch" class="branch" />
+				<use xlink:href="#East_and_South_London_Lines_route" class="mes" />
+			<use xlink:href="#DLR_route_over" class="sdlr2" id="DLR_route_stripe_over" />
+		<use xlink:href="#int" transform="translate(20,47)" />
+		<use xlink:href="#cap2" transform="translate(45,39.5)rotate(90)" />
+		<use xlink:href="#Bank_Monument_hub" transform="translate(65,35)" id="Bank_Monument_Hub" />
+		<use xlink:href="#intnr" transform="translate(25,93)" />
+		<use xlink:href="#cap2nr" transform="translate(53,85.5)rotate(90)" />
+		<use xlink:href="#nr" transform="translate(53,92)" />
+		<use xlink:href="#sttlnr" x="80" y="93" />
+		<use xlink:href="#int" x="43" y="125" />
+		<use xlink:href="#int" x="58" y="145" />
+		<use xlink:href="#legend_branch" class="branch" />
+		<use xlink:href="#airport" x="53" y="213" />
+		<use xlink:href="#legend_swnc" class="swnc2" />
+		<use xlink:href="#legend_sog" class="mes" />
+		<use xlink:href="#legend_sdlr" class="sdlr2" />
+		<use xlink:href="#legend_selizabeth" class="mes" />
+			<use xlink:href="#Elizabeth_route" id="Elizabeth_blink" class="blink selizabeth">
+			</use>
+			<use xlink:href="#Elizabeth_Heathrow_route" id="Elizabeth_Heathrow_blink" class="blink selizabeth">
+			</use>
+			<use xlink:href="#Elizabeth_Shenfield_route" id="Elizabeth_Shenfield_blink" class="blink selizabeth">
+			</use>
+			<use xlink:href="#Waterloo_and_City_line_route" id="Waterloo_and_City_line_blink" class="blink swnc">
+			</use>
+			<use xlink:href="#Jubilee_line_route" id="Jubilee_line_blink" class="blink sjubilee">
+			</use>
+			<use xlink:href="#Central_line_route" id="Central_line_blink" class="blink scentral">
+			</use>
+			<use xlink:href="#Northern_line_Battersea_extension" id="Northern_line_Battersea_extension_blink"
+			</use>
+			<use xlink:href="#Northern_line_route" id="Northern_line_blink" class="blink snorthern">
+			</use>
+			<use xlink:href="#Victoria_line_route" id="Victoria_line_blink" class="blink svictoria">
+			</use>
+			<use xlink:href="#Bakerloo_line_route" id="Bakerloo_line_blink" class="blink sbakerloo">
+			</use>
+			<use xlink:href="#Piccadilly_line_route" id="Piccadilly_line_blink" class="blink spiccadilly">
+			</use>
+			<use xlink:href="#DLR_routes" id="DLR_blink" class="blink sdlr">
+			</use>
+			<use xlink:href="#District_Olympia_branch" id="District_Olympia_branch_blink" class="blink sdistrict">
+			</use>
+			<use xlink:href="#District_line_route" id="District_line_blink" class="blink sdistrict">
+			</use>
+			<use xlink:href="#North_and_West_London_Lines_route" id="North_and_West_London_Lines_blink">
+			</use>
+			<use xlink:href="#Hammersmith_and_City_line_route" id="Hammersmith_and_City_line_blink" class="blink bhnc">
+			</use>
+			<use xlink:href="#Circle_line_route" id="Circle_line_blink" class="blink bcircle">
+			</use>
+			<use xlink:href="#Watford_DC_Line_route" id="Watford_DC_Line_blink" class="blink sog">
+			</use>
+			<use xlink:href="#Metropolitan_line_Croxley_extension" id="Metropolitan_line_Croxley_extension_blink" class="blink smetropolitan">
+			</use>
+			<use xlink:href="#Metropolitan_line_route" id="Metropolitan_line_blink" class="blink smetropolitan">
+			</use>
+			<use xlink:href="#Watford_DC_Line_route_over" id="Watford_DC_Line_blink_over" class="blink sog">
+			</use>
+			<use xlink:href="#Gospel_Oak_to_Barking_Line_extension_route">
+			</use>
+			<use xlink:href="#Gospel_Oak_to_Barking_Line_route" id="Gospel_Oak_to_Barking_Line_blink" class="blink sog">
+			</use>
+			<use xlink:href="#Seven_Sisters_Line_routes" id="Seven_Sisters_Line_blink" class="blink sog">
+			</use>
+			<use xlink:href="#Chingford_Line_route" id="Chingford_Line_blink" class="blink sog">
+			</use>
+			<use xlink:href="#Romford_to_Upminster_Line_route" id="Romford_to_Upminster_Line_blink" class="blink sog">
+			</use>
+			<use xlink:href="#East_London_Line_Battersea_Park_branch" id="East_London_Line_Battersea_Park_branch_blink">
+			</use>
+			<use xlink:href="#East_and_South_London_Lines_route" id="East_and_South_London_Lines_blink">
+			</use>
+			<use xlink:href="#DLR_route_over" id="DLR_over_blink" class="blink sdlr">
+			</use>
+			<use xlink:href="#cap2" transform="translate(445,778)rotate(-53.13)" id="Acton_Town" />
+				<use xlink:href="#Fenchurch_Street_osi_base" class="osi" style="stroke:#ef2721" />
+					<!-- <use xlink:href="#nr" /> -->
+					<!-- <use xlink:href="#Aldgate-Tower_Gateway_osi_base" class="osi" id="Aldgate"/> -->
+				<!-- <use xlink:href="#int" x="1601.5" y="541.5" id="Aldgate" /> -->
+				<use xlink:href="#Tower_Hill-Tower_Gateway_osi_base" class="osi" />
+				<use xlink:href="#int" x="1601.5" y="585" id="Tower_Gateway" />
+				<use xlink:href="#int" x="1563" y="585" id="Tower_Hill" />
+			<use xlink:href="#int" x="1653" y="556" id="Aldgate_East" />
+			<use xlink:href="#int" x="1074" y="169.5" id="Archway" />
+			<use xlink:href="#int" x="1107" y="169.5" id="Upper_Holloway" />
+			<use xlink:href="#cap2" transform="translate(1038.5,519)rotate(-36.87)" id="Baker_Street" />
+				<use xlink:href="#Barbican_Farringdon_osi" class="osib" />
+				<use xlink:href="#intnrbase" x="1386" y="459.625" id="Farringdon_circle_base" />
+				<use xlink:href="#intbase" x="1386" y="493" id="Farringdon_elizabeth_base" />
+				<use xlink:href="#intnrtop" x="1386" y="459.625" id="Farringdon_circle_top" />
+				<use xlink:href="#inttop" x="1386" y="493" id="Farringdon_elizabeth_top" />
+				<use xlink:href="#nr" x="1386" y="459.625" />
+				<use xlink:href="#int" x="1415" y="493" id="Barbican" />
+				<use xlink:href="#intnr" x="2159.5" y="357" id="Barking" />
+				<use xlink:href="#intnr" x="1372" y="639" id="Blackfriars" />
+			<use xlink:href="#cap2" transform="translate(1602,118)rotate(90)" id="Blackhorse_Road" />
+			<use xlink:href="#cap2lx" transform="translate(1105.75,608.75)rotate(270)" id="Bond_Street_cr" />
+			<use xlink:href="#int" x="1105.75" y="608.75" id="Bond_Street" />
+				<use xlink:href="#Bow_osi" class="osib" />
+				<use xlink:href="#int" x="1900" y="418" id="Bow_Church" />
+				<use xlink:href="#int" x="1878" y="434" id="Bow_Road" />
+				<use xlink:href="#Brondesbury_Kilburn_osi" class="osib" />
+				<use xlink:href="#int" transform="translate(816.5,376)rotate(233.13)" id="Brondesbury" />
+				<use xlink:href="#int" transform="translate(861,309)rotate(90)" id="Kilburn" />
+			<use xlink:href="#int" x="1700" y="675" id="Canada_Water" />
+					<use xlink:href="#int" x="1893.5" y="622" id="Canary_Wharf_elizabeth" />
+					<use xlink:href="#int" x="1880" y="635" id="Canary_Wharf_dlr" />
+					<use xlink:href="#int" x="1893.5" y="648" id="Canary_Wharf_jubilee" />
+				<use xlink:href="#int" x="1880" y="661" id="Heron_Quays" />
+			<use xlink:href="#int" x="1893.5" y="585" id="Poplar" />
+			<use xlink:href="#int" x="1185.33" y="266" id="Camden_Road" />
+			<use xlink:href="#int" x="1165" y="281" id="Camden_Town" />
+				<use xlink:href="#intnr" x="1432" y="594" id="Cannon_Street" />
+			<use xlink:href="#cap2l" transform="translate(2026,584)rotate(-53.13)" id="Canning_Town" />
+				<use xlink:href="#intnr" x="1287.32" y="671.26" id="Charing_Cross" />
+				<use xlink:href="#intnr" x="1240.5" y="946" id="Clapham_High_Street" />
+			<use xlink:href="#int" x="1240.5" y="964" id="Clapham_North" />
+			<use xlink:href="#int" x="2180" y="590" id="Custom_House_for_ExCeL" />
+				<use xlink:href="#int" x="1583" y="295" id="Dalston_Kingsland" />
+				<use xlink:href="#int" x="1564.625" y="337" id="Dalston_Junction" />
+				<use xlink:href="#intnr" x="340" y="723.9" id="Ealing_Broadway" />
+			<use xlink:href="#cap2" transform="translate(405,748)rotate(-53.13)" id="Ealing_Common" />
+			<use xlink:href="#cap2" transform="translate(871,869.4)rotate(-90)" id="Earls_Court" />
+				<use xlink:href="#stbakerloo" transform="translate(970,545.25)rotate(-126.67)" />
+				<use xlink:href="#cap2" transform="translate(981,559)rotate(53.13)" id="Edgware_Road_circle" />
+				<use xlink:href="#intnr" x="1479" y="768" id="Elephant_And_Castle" />
+			<use xlink:href="#intnr" x="1302.32" y="691.26" id="Embankment" />
+			<use xlink:href="#Euston_osi" class="osib" />
+				<use xlink:href="#cap2" transform="translate(1212,376.85)rotate(233.13)" />
+				<use xlink:href="#intnr" x="1172.9325" y="364.85" id="Euston_Overground_NR" />
+				<use xlink:href="#Euston_Square-Warren_Street_osi" class="osi" />
+				<use xlink:href="#int" x="1201.92" y="403.5" id="Euston_Square_circle" />
+				<use xlink:href="#int" x="1159.5" y="403.5" id="Warren_Street" />
+			<use xlink:href="#cap2" transform="translate(935,381)rotate(-36.87)" id="Finchley_Road" />
+			<use xlink:href="#int" x="946" y="337" id="Finchley_Road_and_Frognal" />
+				<use xlink:href="#intnr" x="1387.5" y="183" id="Finsbury_Park" />
+			<use xlink:href="#int" transform="translate(2041,280)rotate(53.13)" id="Forest_Gate" />
+			<use xlink:href="#int" transform="translate(2041,258)rotate(-90)" id="Wanstead_Park" />
+			<use xlink:href="#cap2" transform="translate(1020.3,869.4)rotate(-90)" id="Gloucester_Road" />
+			<use xlink:href="#int" x="1153" y="672" id="Green_Park" />
+			<use xlink:href="#int" x="449" y="836.4" id="Gunnersbury" />
+				<use xlink:href="#intnr" x="1635" y="278" id="Hackney_Downs">
+				</use>
+				<use xlink:href="#int" x="1657.67" y="295" id="Hackney_Central" />
+			<use xlink:href="#int" x="637" y="835" id="Hammersmith_circle" />
+			<use xlink:href="#cap2" transform="translate(637,869.4)rotate(-90)" id="Hammersmith_district" />
+			<use xlink:href="#Hanger_Lane_Park_Royal_osi" class="osib" />
+			<use xlink:href="#int" x="372" y="620.4" id="Hanger_Lane" />
+			<use xlink:href="#int" x="384" y="643" id="Park_Royal" />
+				<use xlink:href="#intnr" x="531.5" y="239" id="Harrow_and_Wealdstone" />
+				<use xlink:href="#stpiccadilly" transform="translate(111,984.5)rotate(53.33)"
+				<use xlink:href="#termelizabeth" x="105" y="1002" id="Heathrow_4_elizabeth" />
+			<use xlink:href="#airport" x="86" y="981" cursor="help">
+			</use>
+				<use xlink:href="#intnr" x="1420" y="300" id="Highbury_and_Islington" />
+			<use xlink:href="#int" x="1290" y="520" id="Holborn" />
+			<use xlink:href="#West_Ruislip_Ickenham_osi" class="osib" />
+				<use xlink:href="#intnr" x="142" y="277.5" id="West_Ruislip" />
+			<use xlink:href="#int" x="116.67" y="296.5" id="Ickenham" />
+				<use xlink:href="#intnr" x="1128" y="210" id="Kentish_Town" />
+			<use xlink:href="#int" x="1106.67" y="226" id="Kentish_Town_West" />
+			<use xlink:href="#Kenton_Northwick_Park_osi" class="osib" />
+			<use xlink:href="#int" x="531.5" y="274" id="Kenton" />
+			<use xlink:href="#int" x="516.5" y="294" id="Northwick_Park" />
+				<use xlink:href="#intnr" x="828.5" y="819" id="Kensington_Olympia" />
+				<use xlink:href="#cap3nr" transform="translate(1290,397)rotate(-90)" id="Kings_Cross_St_Pancras" />
+				<use xlink:href="#nr" x="1290" y="385.5" />
+			<use xlink:href="#int" x="1255.5" y="595" id="Leicester_Square" />
+			<use xlink:href="#Leytonstone_High_Road_osi" class="osib" />
+			<use xlink:href="#int" x="1926" y="148" id="Leytonstone" />
+			<use xlink:href="#int" x="1940" y="186" id="Leytonstone_High_Road" />
+			<use xlink:href="#Liverpool_Street_Moorgate_osi" class="osib" />
+				<use xlink:href="#intnr" transform="translate(1564,480)" id="Liverpool_Street_nr" />
+			<use xlink:href="#intbase" x="1564" y="500" id="Liverpool_Street_circle_base" />
+			<use xlink:href="#intbase" x="1521.5" y="516" id="Liverpool_Street_elizabeth_base" />
+			<use xlink:href="#intnrbase" x="1479" y="500" id="Moorgate_base">
+			</use>
+			<use xlink:href="#Moorgate-Liverpool_Street_isi" class="isi" />
+			<use xlink:href="#inttop" x="1564" y="500" id="Liverpool_Street_circle_top">
+			</use>
+			<use xlink:href="#inttop" x="1521.5" y="516" id="Liverpool_Street_elizabeth_top">
+			</use>
+			<use xlink:href="#intnrtop" x="1479" y="500" id="Moorgate_mid">
+			</use>
+			<use xlink:href="#Moorgate-Liverpool_Street_isi" class="isit" />
+			<use xlink:href="#nr" x="1479" y="500" id="Moorgate_top">
+			</use>
+				<use xlink:href="#intnr" x="1479" y="675" id="London_Bridge" />
+			<use xlink:href="#int" x="2090" y="243.25" id="Manor_Park" />
+			<use xlink:href="#int" x="2090" y="266.5" id="Woodgrange_Park" />
+			<use xlink:href="#int" x="1812.5" y="445" id="Mile_End" />
+			<use xlink:href="#int" x="877.3" y="723.9" id="Notting_Hill_Gate" />
+			<use xlink:href="#int" x="1153" y="573" id="Oxford_Circus" />
+				<use xlink:href="#Paddington_osi_base" class="osi" id="Paddington_osi" />
+				<use xlink:href="#intnr" transform="translate(921,593)rotate(155)translate(19)rotate(-155)" />
+				<use xlink:href="#int" transform="translate(921,593)rotate(-90)translate(19)" id="Paddington_surface" />
+				<use xlink:href="#intbase" transform="translate(921,593)" id="Paddington_elizabeth_base" />
+				<use xlink:href="#intbase" transform="translate(1020.3,723.9)rotate(233)translate(145.5)" />
+				<use xlink:href="#inttop" transform="translate(921,593)" id="Paddington_elizabeth_top" />
+				<use xlink:href="#inttop" transform="translate(1020.3,723.9)rotate(233)translate(145.5)" />
+				<!--<use xlink:href="#nr" x="921" y="588" id="Paddington_nr"/>-->
+			<use xlink:href="#int" x="1200.5" y="636.25" id="Piccadilly_Circus" />
+			<use xlink:href="#int" x="760.5" y="514" id="Queens_Park" />
+			<use xlink:href="#int" x="300" y="296.5" id="Rayners_Lane" />
+					because accessible routes require leaving and re-entering the paid area.</title>
+				<use xlink:href="#intnr" x="360.5" y="903.4" id="Richmond" />
+				<use xlink:href="#intnr" x="2257" y="118" id="Romford" />
+			<use xlink:href="#intnr" x="1426.67" y="113" id="Seven_Sisters">
+					minutes because accessible routes require leaving and re-entering the paid area.</title>
+			</use>
+			<use xlink:href="#int" x="1426.67" y="138" id="South_Tottenham" />
+				<use xlink:href="#int" x="1700" y="585" id="Shadwell" />
+				<use xlink:href="#int" x="696" y="723.9" id="Shepherds_Bush_tube" />
+				<use xlink:href="#intnr" x="706" y="708.9" id="Shepherds_Bush_nr" />
+			<use xlink:href="#int" x="1284.5" y="931" id="Stockwell" />
+				<use xlink:href="#cap2nr" transform="translate(1978.375,318.25)rotate(53.13)" id="Stratford" />
+				<use xlink:href="#nr" x="1982.375" y="323.5" />
+			<use xlink:href="#cap2" transform="translate(1020.3,719.5)rotate(245)translate(-148.5)"
+			<use xlink:href="#cap2l" transform="translate(1208,531.75)rotate(270)" id="Tottenham_Court_Road" />
+			<use xlink:href="#int" x="1208" y="531.75" id="Tottenham_Court_Road"/>-->
+				<use xlink:href="#bus" x="1164" y="810" id="Victoria_Coach_Station" />
+				<use xlink:href="#intnr" x="1176" y="786" id="Victoria" />
+			<use xlink:href="#int" x="1682" y="113" id="Walthamstow_Central" />
+			<use xlink:href="#int" x="1700.75" y="138" id="Walthamstow_Queens_Road" />
+				<use xlink:href="#intnr" x="1334.36" y="733.98" id="Waterloo" />
+				<use xlink:href="#intnr" x="606.5" y="398.5" id="Wembley_Central" />
+			<use xlink:href="#int" x="651" y="294" id="Wembley_Park" />
+				<use xlink:href="#intnr" x="828.5" y="920" id="West_Brompton" />
+				<use xlink:href="#intnr" x="2031" y="434" id="West_Ham" />
+				<use xlink:href="#intnr" x="912.5" y="351" id="West_Hampstead" />
+			<use xlink:href="#int" x="1236" y="741" id="Westminster" />
+			<use xlink:href="#int" x="696.5" y="466" id="Willesden_Junction" />
+			<use xlink:href="#int" x="1700" y="532.5" id="Whitechapel">
+			</use>
+			<use xlink:href="#White_City_Wood_Lane_osi" class="osib" />
+			<use xlink:href="#int" x="624" y="723.9" id="White_City" />
+			<use xlink:href="#int" x="637" y="742.9" id="Wood_Lane" />
+			<use xlink:href="#int" x="2320.67" y="679.5" id="Woolwich" />
+				<use xlink:href="#intnr" x="2288" y="704" id="Woolwich_Arsenal" />
+			<use xlink:href="#stbakerloo" transform="translate(789,538.5)rotate(126.87)" id="Kilburn_Park" />
+			<use xlink:href="#stbakerloo" transform="translate(815,558)rotate(126.87)" id="Maida_Vale" />
+			<use xlink:href="#stbakerloo" transform="translate(841,577.5)rotate(126.87)" id="Warwick_Avenue" />
+				<use xlink:href="#intnr" x="1001" y="522" id="Marylebone" />
+			<use xlink:href="#stbakerloo" transform="translate(1091,517)rotate(-90)" id="Regents_Park" />
+			<use xlink:href="#stbakerloo" transform="translate(1420,768)rotate(90)" id="Lambeth_North" />
+			<use xlink:href="#stcentral" transform="translate(142,344)rotate(180)" id="Ruislip_Gardens" />
+				<use xlink:href="#intnr" x="142" y="394" id="South_Ruislip" />
+			<use xlink:href="#stcentral" transform="translate(158,459.9)rotate(126.87)" id="Northolt" />
+				<use xlink:href="#intnr" x="224" y="509.4" id="Greenford" />
+			<use xlink:href="#stcentral" transform="translate(304,569.4)rotate(126.87)" id="Perivale" />
+			<use xlink:href="#stcentral" transform="translate(407,694.9)rotate(53.13)" id="West_Acton" />
+			<use xlink:href="#stcentral" transform="translate(483,703.9)rotate(-53.13)" id="North_Acton" />
+			<use xlink:href="#stcentral" transform="translate(580,723.9)rotate(-90)" id="East_Acton" />
+			<use xlink:href="#stcentral" transform="translate(806,723.9)rotate(90)" id="Holland_Park" />
+			<use xlink:href="#stcentral" transform="translate(930,723.9)rotate(90)" id="Queensway" />
+				<use xlink:href="#intnr" x="996" y="691" id="Lancaster_Gate" />
+			<use xlink:href="#stcentral" transform="translate(1048,652)rotate(233.13)" id="Marble_Arch" />
+			<use xlink:href="#stcentral" transform="translate(1330,520)rotate(90)" id="Chancery_Lane" />
+			<use xlink:href="#stcentral" transform="translate(1410,540)rotate(143.13)" id="St_Pauls" />
+			<use xlink:href="#stcentral" transform="translate(1660,452)rotate(-90)" id="Bethnal_Green_central" />
+			<use xlink:href="#stcentral" transform="translate(1947,214)rotate(143.13)" id="Leyton" />
+			<use xlink:href="#stcentral" transform="translate(1926,106)rotate(180)" id="Snaresbrook" />
+			<use xlink:href="#stcentral" transform="translate(1926,76)rotate(180)" id="South_Woodford" />
+				<title>Free out-of-station interchange between all gatelines within 10 minutes because accessible routes
+				<use xlink:href="#int" transform="translate(1928.5,46)rotate(180)" id="Woodford" />
+			<use xlink:href="#stcentral" transform="translate(1926,16)rotate(180)" id="Buckhurst_Hill" />
+			<use xlink:href="#stcentral" transform="translate(1926,-14)rotate(180)" id="Loughton" />
+			<use xlink:href="#stcentral" transform="translate(1926,-44)rotate(180)" id="Debden" />
+			<use xlink:href="#stcentral" transform="translate(1926,-74)rotate(180)" id="Theydon_Bois" />
+			<use xlink:href="#termcentral" transform="translate(1926,-104)rotate(180)" id="Epping" />
+			<use xlink:href="#stcentral" transform="translate(1956,120)rotate(90)" id="Wanstead" />
+			<use xlink:href="#stcentral" transform="translate(1996,120)rotate(-90)" id="Redbridge" />
+			<use xlink:href="#stcentral" transform="translate(2036,120)rotate(90)" id="Gants_Hill" />
+			<use xlink:href="#stcentral" transform="translate(2076,120)rotate(-90)" id="Newbury_Park" />
+			<use xlink:href="#stcentral" x="2111" y="90" id="Barkingside" />
+			<use xlink:href="#stcentral" x="2111" y="66" id="Fairlop" />
+			<use xlink:href="#stcentral" x="2111" y="42" id="Hainault" />
+			<use xlink:href="#stcentral" transform="translate(2076,10)rotate(-90)" id="Grange_Hill" />
+			<use xlink:href="#stcentral" transform="translate(2018.5,10)rotate(-90)" id="Chigwell" />
+			<use xlink:href="#stcentral" transform="translate(1961,10)rotate(-90)" id="Roding_Valley" />
+			<use xlink:href="#stdistrict" transform="translate(1020.3,723.9)rotate(203)translate(145.5,0)" />
+			<use xlink:href="#stcircle" transform="translate(1020.3,723.9)rotate(203)translate(140.5,0)" />
+			<use xlink:href="#stcircle" transform="translate(1020.3,723.9)rotate(-36.87)translate(-140.5,0)" />
+			<use xlink:href="#stdistrict" transform="translate(1020.3,723.9)rotate(-36.87)translate(-145.5,0)" />
+			<use xlink:href="#stdistrict" transform="translate(1136,819)rotate(53.13)" id="Sloane_Square_district" />
+			<use xlink:href="#stcircle" transform="translate(1133,815)rotate(53.13)" id="Sloane_Square_circle" />
+			<use xlink:href="#stdistrict" transform="translate(1210,763.5)rotate(53.13)" id="St_Jamess_Park_district" />
+			<use xlink:href="#stcircle" transform="translate(1207,759.5)rotate(53.13)" id="St_Jamess_Park_circle" />
+			<use xlink:href="#stcircle" transform="translate(1336,663)rotate(233.13)" id="Temple_circle" />
+			<use xlink:href="#stdistrict" transform="translate(1339,667)rotate(233.13)" id="Temple_district" />
+			<use xlink:href="#stcircle" transform="translate(1400,615)rotate(233.13)" id="Mansion_House_circle" />
+			<use xlink:href="#stdistrict" transform="translate(1403,619)rotate(233.13)" id="Mansion_House_district" />
+			<use xlink:href="#sthnc" transform="translate(1111,461.5)rotate(233.13)" id="Great_Portland_Street_hnc" />
+			<use xlink:href="#stcircle" transform="translate(1114,465.5)rotate(233.13)" />
+			<use xlink:href="#stmetropolitan" transform="translate(1117,469.5)rotate(233.13)" />
+			<use xlink:href="#stcircle" transform="translate(800,620)rotate(90)" id="Royal_Oak_circle" />
+			<use xlink:href="#sthnc" transform="translate(800,615)rotate(90)" id="Royal_Oak_hnc" />
+			<use xlink:href="#sthnc" transform="translate(722.5,641)rotate(233.13)" id="Westbourne_Park_hnc" />
+			<use xlink:href="#stcircle" transform="translate(725.5,645)rotate(233.13)" id="Westbourne_Park_circle" />
+			<use xlink:href="#stcircle" transform="translate(689.5,672)rotate(53.13)" id="Ladbroke_Grove_circle" />
+			<use xlink:href="#sthnc" transform="translate(686.5,668)rotate(53.13)" id="Ladbroke_Grove_hnc" />
+			<use xlink:href="#sthnc" transform="translate(652.5,693.5)rotate(233.13)" id="Latimer_Road_hnc" />
+			<use xlink:href="#stcircle" transform="translate(655.5,697.5)rotate(233.13)" id="Latimer_Road_circle" />
+			<use xlink:href="#stcircle" x="639.5" y="772.9" id="Shepherds_Bush_Market_circle" />
+			<use xlink:href="#sthnc" x="634.5" y="772.9" id="Shepherds_Bush_Market_hnc" />
+			<use xlink:href="#stcircle" x="639.5" y="802.9" id="Goldhawk_Road_circle" />
+			<use xlink:href="#sthnc" x="634.5" y="802.9" id="Goldhawk_Road_hnc" />
+			<use xlink:href="#stdistrict" transform="translate(475,800.5)rotate(126.87)" id="Chiswick_Park" />
+			<use xlink:href="#stdistrict" transform="translate(521,835)rotate(-53.13)" id="Turnham_Green_district" />
+			<use xlink:href="#stdistrict" transform="translate(545,853)rotate(126.87)" id="Stamford_Brook" />
+			<use xlink:href="#stdistrict" transform="translate(587,869.4)rotate(90)" id="Ravenscourt_Park" />
+			<use xlink:href="#stdistrict" transform="translate(705,869.4)rotate(90)" id="Barons_Court_district" />
+			<use xlink:href="#stdistrict" transform="translate(780,869.4)rotate(90)" id="West_Kensington" />
+			<use xlink:href="#stdistrict" transform="translate(1755.5,494)rotate(53.13)" id="Stepney_Green_district" />
+			<use xlink:href="#sthnc" transform="translate(1752.5,490)rotate(53.13)" id="Stepney_Green_hnc" />
+			<use xlink:href="#sthnc" transform="translate(1963,431.5)rotate(90)" id="Bromley-by-Bow_hnc" />
+			<use xlink:href="#stdistrict" transform="translate(1963,436.5)rotate(90)" id="Bromley-by-Bow_district" />
+			<use xlink:href="#stdistrict" transform="translate(2071,426.5)rotate(53.13)" id="Plaistow_district" />
+			<use xlink:href="#sthnc" transform="translate(2068,422.5)rotate(53.13)" id="Plaistow_hnc" />
+			<use xlink:href="#stdistrict" transform="translate(2101,404)rotate(53.13)" id="Upton_Park_district" />
+			<use xlink:href="#sthnc" transform="translate(2098,400)rotate(53.13)" id="Upton_Park_hnc" />
+			<use xlink:href="#stdistrict" transform="translate(2131,381.5)rotate(53.13)" id="East_Ham_district" />
+			<use xlink:href="#sthnc" transform="translate(2128,377.5)rotate(53.13)" id="East_Ham_hnc" />
+			<use xlink:href="#stdistrict" transform="translate(2191,336.5)rotate(53.13)" id="Upney" />
+			<use xlink:href="#stdistrict" transform="translate(2221,314)rotate(53.13)" id="Becontree" />
+			<use xlink:href="#stdistrict" transform="translate(2251,291.5)rotate(53.13)" id="Dagenham_Heathway" />
+			<use xlink:href="#stdistrict" transform="translate(2281,269)rotate(53.13)" id="Dagenham_East" />
+			<use xlink:href="#stdistrict" transform="translate(2311,246.5)rotate(53.13)" id="Elm_Park" />
+			<use xlink:href="#stdistrict" transform="translate(2341,224)rotate(233.13)" id="Hornchurch" />
+			<use xlink:href="#stdistrict" transform="translate(2371,201.5)rotate(233.13)" id="Upminster_Bridge" />
+				<use xlink:href="#intnr" x="2401" y="179" id="Upminster" />
+			<use xlink:href="#stdistrict" transform="translate(831,960)rotate(180)" id="Fulham_Broadway" />
+			<use xlink:href="#stdistrict" transform="translate(840,987.5)rotate(143.33)" id="Parsons_Green" />
+			<use xlink:href="#stdistrict" transform="translate(861,1015.5)rotate(143.33)" id="Putney_Bridge" />
+				<use xlink:href="#intnr" x="882" y="1043.5" id="East_Putney" />
+			<use xlink:href="#stdistrict" transform="translate(900,1067.5)rotate(143.33)" id="Southfields" />
+			<use xlink:href="#stdistrict" transform="translate(918,1091.5)rotate(143.33)" id="Wimbledon_Park" />
+				<use xlink:href="#intnr" x="939" y="1119.5" id="Wimbledon" />
+			<use xlink:href="#termjubilee" x="651" y="162" id="Stanmore" />
+			<use xlink:href="#stjubilee" x="651" y="192" id="Canons_Park" />
+			<use xlink:href="#stjubilee" x="651" y="222" id="Queensbury" />
+			<use xlink:href="#stjubilee" x="651" y="252" id="Kingsbury" />
+			<use xlink:href="#stjubilee" transform="translate(681,309)rotate(90)" id="Neasden" />
+			<use xlink:href="#stjubilee" transform="translate(741,309)rotate(90)" id="Dollis_Hill" />
+			<use xlink:href="#stjubilee" transform="translate(801,309)rotate(90)" id="Willesden_Green" />
+			<use xlink:href="#stjubilee" transform="translate(957.5,411)rotate(143.13)" id="Swiss_Cottage" />
+			<use xlink:href="#stjubilee" transform="translate(995,461)rotate(143.13)" id="St_Johns_Wood" />
+				<use xlink:href="#intnr" x="1380.2" y="699.6" id="Southwark" />
+			<use xlink:href="#stjubilee" transform="translate(1590,675)rotate(90)" id="Bermondsey" />
+			<use xlink:href="#stjubilee" transform="translate(2000,648)rotate(90)" id="North_Greenwich" />
+				<use xlink:href="#AETRAM" x="2000" y="688" />
+				<use xlink:href="#intnr" x="100" y="60" id="Amersham" />
+			<use xlink:href="#termmetropolitan" x="124" y="38" id="Chesham" />
+				<use xlink:href="#intnr" x="140" y="90" id="Chalfont_and_Latimer" />
+			<use xlink:href="#stmetropolitan" transform="translate(170,112.5)rotate(126.87)" id="Chorleywood" />
+			<use xlink:href="#stmetropolitan" transform="translate(200,135)rotate(126.87)" id="Rickmansworth" />
+			<use xlink:href="#termmetropolitan" x="223" y="80" id="Watford" />
+			<use xlink:href="#stmetropolitan" x="223" y="130" id="Croxley" />
+			<use xlink:href="#stmetropolitanx" transform="translate(323,90)rotate(90)" id="Cassiobridge"/>
+			<use xlink:href="#stmetropolitanx" transform="translate(423,90)rotate(-90)" id="Watford_Vicarage_Road"/>
+			<use xlink:href="#stmetropolitan" transform="translate(240,165)rotate(-53.13)" id="Moor_Park" />
+			<use xlink:href="#stmetropolitan" transform="translate(270,187.5)rotate(-53.13)" id="Northwood" />
+			<use xlink:href="#stmetropolitan" transform="translate(300,210)rotate(-53.13)" id="Northwood_Hills" />
+			<use xlink:href="#stmetropolitan" transform="translate(330,232.5)rotate(-53.13)" id="Pinner" />
+			<use xlink:href="#stmetropolitan" transform="translate(360,255)rotate(-53.13)" id="North_Harrow" />
+			<use xlink:href="#stmetropolitan" transform="translate(380,294)rotate(90)" id="West_Harrow">
+			</use>
+				<use xlink:href="#intnr" x="440" y="294" id="Harrow_on_the_Hill" />
+			<use xlink:href="#stmetropolitan" transform="translate(590,294)rotate(90)" id="Preston_Road" />
+			<use xlink:href="#termnorthern" transform="translate(706,124.5)rotate(-53.13)" id="Edgware" />
+			<use xlink:href="#stnorthern" transform="translate(738,148.5)rotate(-53.13)" id="Burnt_Oak" />
+			<use xlink:href="#stnorthern" transform="translate(768,171)rotate(-53.13)" id="Colindale" />
+			<use xlink:href="#stnorthern" transform="translate(798,193.5)rotate(-53.13)" id="Hendon_Central" />
+			<use xlink:href="#stnorthern" transform="translate(828,216)rotate(-53.13)" id="Brent_Cross" />
+			<use xlink:href="#stnorthern" transform="translate(858,238.5)rotate(-53.13)" id="Golders_Green" />
+			<use xlink:href="#stnorthern" transform="translate(888,261)rotate(-53.13)" id="Hampstead" />
+			<use xlink:href="#stnorthern" transform="translate(1010,281)rotate(90)" id="Belsize_Park" />
+			<use xlink:href="#stnorthern" transform="translate(1090,281)rotate(90)" id="Chalk_Farm" />
+			<use xlink:href="#termnorthern" transform="translate(913,90)rotate(90)" id="Mill_Hill_East" />
+			<use xlink:href="#termnorthern" transform="translate(854,4.5)rotate(-53.13)" id="High_Barnet" />
+			<use xlink:href="#stnorthern" transform="translate(884,27)rotate(-53.13)" id="Totteridge_And_Whetstone" />
+			<use xlink:href="#stnorthern" transform="translate(914,49.5)rotate(-53.13)" id="Woodside_Park" />
+			<use xlink:href="#stnorthern" transform="translate(944,72)rotate(-53.13)" id="West_Finchley" />
+			<use xlink:href="#stnorthern" transform="translate(984,102)rotate(-53.13)" id="Finchley_Central" />
+			<use xlink:href="#stnorthern" transform="translate(1014,124.5)rotate(-53.13)" id="East_Finchley" />
+			<use xlink:href="#stnorthern" transform="translate(1044,147)rotate(-53.13)" id="Highgate" />
+			<use xlink:href="#stnorthern" transform="translate(1108,195)rotate(-53.13)" id="Tufnell_Park" />
+			<use xlink:href="#stnorthern" x="1202" y="332" id="Mornington_Crescent" />
+			<use xlink:href="#stnorthern" x="1163" y="450" id="Goodge_Street" />
+			<use xlink:href="#stnorthern" transform="translate(1389,469.5)rotate(110)translate(-90)" id="Angel" />
+				<use xlink:href="#intnr" transform="translate(1389,469.5)rotate(150)translate(-90)rotate(-150)" />
+			<use xlink:href="#stnorthern" x="1479" y="730" id="Borough" />
+			<use xlink:href="#int" x="1362.5" y="866" id="Kennington" />
+			<use xlink:href="#stnorthern" transform="translate(1328.5,898)rotate(53.13)" id="Oval" />
+			<use xlink:href="#stnorthern" transform="translate(1210.5,986.5)rotate(53.13)" id="Clapham_Common" />
+			<use xlink:href="#stnorthern" transform="translate(1180.5,1009)rotate(53.13)" id="Clapham_South" />
+				<use xlink:href="#intnr" x="1150.5" y="1031.5" id="Balham" />
+			<use xlink:href="#stnorthern" transform="translate(1120.5,1054)rotate(53.13)" id="Tooting_Bec" />
+			<use xlink:href="#stnorthern" transform="translate(1090.5,1076.5)rotate(53.13)" id="Tooting_Broadway" />
+			<use xlink:href="#stnorthern" transform="translate(1060.5,1099)rotate(53.13)" id="Colliers_Wood" />
+			<use xlink:href="#stnorthern" transform="translate(1030.5,1121.5)rotate(53.13)" id="South_Wimbledon" />
+			<use xlink:href="#termnorthern" transform="translate(1000.5,1144)rotate(53.13)" id="Morden" />
+			<use xlink:href="#stnorthern" transform="translate(1201.5,902)rotate(233.13)" id="Nine_Elms" />
+			<use xlink:href="#termnorthern" transform="translate(1134,927.25)rotate(90)" id="Battersea_Power_Station" />
+			<use xlink:href="#stpiccadilly" transform="translate(384,370)rotate(180)" id="South_Harrow" />
+				<use xlink:href="#intnr" x="384" y="430" id="Sudbury_Hill" />
+			<use xlink:href="#stpiccadilly" transform="translate(384,490)rotate(180)" id="Sudbury_Town" />
+			<use xlink:href="#stpiccadilly" transform="translate(384,550)rotate(180)" id="Alperton" />
+			<use xlink:href="#stpiccadilly" transform="translate(384,670)rotate(180)" id="North_Ealing" />
+			<use xlink:href="#stpiccadilly" transform="translate(93,956.5)rotate(-90)" id="Heathrow_23" />
+			<use xlink:href="#termelizabeth" transform="translate(30,966.5)rotate(90)" id="Heathrow_5_elizabeth" />
+			<use xlink:href="#termpiccadilly" transform="translate(30,956.5)rotate(90)" id="Heathrow_5_Piccadilly" />
+			<use xlink:href="#stpiccadilly" transform="translate(160,947.5)rotate(53.13)" id="Hatton_Cross" />
+			<use xlink:href="#stpiccadilly" transform="translate(190,925)rotate(53.13)" id="Hounslow_West" />
+			<use xlink:href="#stpiccadilly" transform="translate(220,902.5)rotate(53.13)" id="Hounslow_Central" />
+			<use xlink:href="#stpiccadilly" transform="translate(250,880)rotate(233.13)" id="Hounslow_East" />
+			<use xlink:href="#stpiccadilly" transform="translate(280,857.5)rotate(233.13)" id="Osterley" />
+			<use xlink:href="#stpiccadilly" transform="translate(310,835)rotate(233.13)" id="Boston_Manor" />
+			<use xlink:href="#stpiccadilly" transform="translate(340,812.5)rotate(233.13)" id="Northfields" />
+			<use xlink:href="#stpiccadilly" transform="translate(370,790)rotate(233.13)" id="South_Ealing" />
+			<use xlink:href="#stpiccadillye" transform="translate(530,823)rotate(-53.13)" cursor="help" />
+			</use>
+			<use xlink:href="#stpiccadilly" transform="translate(705,854.4)rotate(90)" id="Barons_Court_piccadilly" />
+			<use xlink:href="#stpiccadilly" transform="translate(1114.6,766)rotate(180)" id="Knightsbridge" />
+			<use xlink:href="#stpiccadilly" transform="translate(1114.6,726)rotate(180)" id="Hyde_Park_Corner" />
+			<use xlink:href="#stpiccadilly" transform="translate(1250,549.25)rotate(216.87)translate(-40)" />
+			<use xlink:href="#stpiccadilly" x="1290" y="450" id="Russell_Square" />
+			<use xlink:href="#stpiccadilly" transform="translate(1306,260)rotate(53.13)" id="Caledonian_Road" />
+			<use xlink:href="#stpiccadilly" transform="translate(1336,237.5)rotate(233.13)" id="Holloway_Road" />
+			<use xlink:href="#stpiccadilly" transform="translate(1366,215)rotate(233.13)" id="Arsenal" />
+			<use xlink:href="#stpiccadilly" transform="translate(1382.5,159)rotate(180)" id="Manor_House" />
+			<use xlink:href="#stpiccadilly" transform="translate(1335,74)rotate(126.87)" id="Turnpike_Lane" />
+			<use xlink:href="#stpiccadilly" transform="translate(1305,51.5)rotate(126.87)" id="Wood_Green" />
+				<use xlink:href="#intnr" x="1275" y="29" id="Bounds_Green" />
+			<use xlink:href="#stpiccadilly" transform="translate(1245,6.5)rotate(126.87)" id="Arnos_Grove" />
+			<use xlink:href="#stpiccadilly" transform="translate(1215,-16)rotate(126.87)" id="Southgate" />
+			<use xlink:href="#stpiccadilly" transform="translate(1185,-38.5)rotate(126.87)" id="Oakwood" />
+			<use xlink:href="#termpiccadilly" transform="translate(1155,-60)rotate(126.87)" id="Cockfosters" />
+			<use xlink:href="#termpiccadilly" transform="translate(20,299)rotate(90)" id="Uxbridge_piccadilly" />
+			<use xlink:href="#termmetropolitan2" transform="translate(20,294)rotate(90)" id="Uxbridge_metropolitan" />
+			<use xlink:href="#stmetropolitan" transform="translate(60,294)rotate(-90)" id="Hillingdon_metropolitan" />
+			<use xlink:href="#stpiccadilly2" transform="translate(60,299)rotate(-90)" id="Hillingdon_piccadilly" />
+			<use xlink:href="#stpiccadilly" transform="translate(180,299)rotate(90)" id="Ruislip_piccadilly" />
+			<use xlink:href="#stmetropolitan2" transform="translate(180,294)rotate(90)" id="Ruislip_metropolitan" />
+			<use xlink:href="#stmetropolitan" transform="translate(220,294)rotate(-90)" />
+			<use xlink:href="#stpiccadilly2" transform="translate(220,299)rotate(-90)" id="Ruislip_Manor_piccadilly" />
+			<use xlink:href="#stpiccadilly" transform="translate(260,299)rotate(90)" id="Eastcote_piccadilly" />
+			<use xlink:href="#stmetropolitan2" transform="translate(260,294)rotate(90)" id="Eastcote_metropolitan" />
+				<use xlink:href="#intnr" x="1530" y="113" id="Tottenham_Hale" />
+			<use xlink:href="#stvictoria" transform="translate(1206,826)rotate(-36.87)" id="Pimlico" />
+				<use xlink:href="#intnr" x="1236" y="866" id="Vauxhall" />
+				<use xlink:href="#intnr" x="1305" y="958" id="Brixton" />
+				<title>Free out-of-station interchange to/from Limehouse National Rail station within 20 minutes.
+				<use xlink:href="#intnr" x="1747" y="585" id="Limehouse" />
+			<use xlink:href="#stdlr" transform="translate(1800,585)rotate(-90)" id="Westferry" />
+			<use xlink:href="#stdlr" transform="translate(1940,585)rotate(90)" id="Blackwall" />
+			<use xlink:href="#stdlr" transform="translate(1980,585)rotate(-90)" id="East_India" />
+			<use xlink:href="#stdlr" transform="translate(2135,585)rotate(-90)" id="Royal_Victoria" />
+				<use xlink:href="#AETRAM" x="2135" y="530" />
+			<use xlink:href="#stdlr" transform="translate(2225,585)rotate(-90)" id="Prince_Regent" />
+			<use xlink:href="#stdlr" transform="translate(2270,585)rotate(90)" id="Royal_Albert" />
+			<use xlink:href="#stdlr" transform="translate(2315,585)rotate(-90)" id="Beckton_Park" />
+			<use xlink:href="#stdlr" transform="translate(2360,585)rotate(90)" id="Cyprus" />
+			<use xlink:href="#stdlr" transform="translate(2390,543)rotate(180)" id="Gallions_Reach" />
+			<use xlink:href="#termdlr" x="2390" y="513" id="Beckton" />
+			<use xlink:href="#stdlr" transform="translate(1940,368)rotate(53.13)" id="Pudding_Mill_Lane" />
+			<use xlink:href="#stdlr" x="1900" y="488" id="Devons_Road" />
+			<use xlink:href="#stdlr" x="1900" y="514" id="Langdon_Park" />
+			<use xlink:href="#stdlr" x="1900" y="540" id="All_Saints" />
+			<use xlink:href="#int" transform="translate(1880,608.5)rotate(180)" id="West_India_Quay" />
+			<use xlink:href="#stdlr" transform="translate(1880,690)rotate(180)" id="South_Quay" />
+			<use xlink:href="#stdlr" transform="translate(1880,720)rotate(180)" id="Crossharbour" />
+			<use xlink:href="#stdlr" transform="translate(1880,750)rotate(180)" id="Mudchute" />
+			<use xlink:href="#stdlr" transform="translate(1880,780)rotate(180)" id="Island_Gardens" />
+			<use xlink:href="#stdlr" x="1880" y="810" id="Cutty_Sark_for_Maritime_Greenwich" />
+				<use xlink:href="#intnr" x="1880" y="840" id="Greenwich" />
+			<use xlink:href="#stdlr" x="1880" y="870" id="Deptford_Bridge" />
+			<use xlink:href="#stdlr" x="1880" y="900" id="Elverson_Road" />
+				<use xlink:href="#intnr" x="1880" y="930" id="Lewisham" />
+				<use xlink:href="#intnr" x="1950" y="272" id="Stratford_International" />
+			<use xlink:href="#stdlr" transform="translate(2017.5,362)rotate(-36.87)" id="Stratford_High_Street" />
+			<use xlink:href="#stdlr" x="2036" y="402" id="Abbey_Road" />
+			<use xlink:href="#stdlr" x="2036" y="510" id="Star_Lane" />
+			<use xlink:href="#stdlr" transform="translate(2092,605)rotate(126.87)" id="West_Silvertown" />
+			<use xlink:href="#stdlr" transform="translate(2132,635)rotate(126.87)" id="Pontoon_Dock" />
+			<use xlink:href="#stdlr" transform="translate(2172,665)rotate(126.87)" id="London_City_Airport" />
+			<use xlink:href="#airport" x="2179" y="653" cursor="help">
+			</use>
+			<use xlink:href="#stdlr" transform="translate(2212,695)rotate(126.87)" id="King_George_V" />
+					because of faster options of National Rail services.</title>
+				<use xlink:href="#intnr" x="534" y="20" id="Watford_Junction" />
+			<use xlink:href="#stog" x="534" y="50" id="Watford_High_Street" />
+				<use xlink:href="#intnr" x="534" y="95" id="Bushey" />
+			<use xlink:href="#stog" x="534" y="131" id="Carpenders_Park" />
+			<use xlink:href="#stog" x="534" y="167" id="Hatch_End" />
+			<use xlink:href="#stog" x="534" y="203" id="Headstone_Lane" />
+			<use xlink:href="#stog" transform="translate(862,501.5)rotate(233.13)" id="Kilburn_High_Road" />
+			<use xlink:href="#stog" transform="translate(924,455)rotate(233.13)" id="South_Hampstead" />
+			<use xlink:href="#stog" transform="translate(910,981)rotate(-90)" id="Imperial_Wharf" />
+				<use xlink:href="#intnr" x="1098.333" y="981" id="Clapham_Junction" />
+			<use xlink:href="#stdistrict" transform="translate(401,875.4)rotate(53.13)" id="Kew_Gardens_district" />
+			<use xlink:href="#stog" transform="translate(398,871.4)rotate(53.13)" id="Kew_Gardens_overground" />
+			<use xlink:href="#stog" transform="translate(510.5,786.5)rotate(53.13)" id="South_Acton" />
+			<use xlink:href="#stog" transform="translate(540.5,764)rotate(53.13)" id="Acton_Central" />
+			<use xlink:href="#stog" transform="translate(748.5,427)rotate(233.13)" id="Kensal_Rise" />
+			<use xlink:href="#stog" transform="translate(782.5,401.5)rotate(233.13)" id="Brondesbury_Park" />
+			<use xlink:href="#stog" x="979.5" y="270" id="Hampstead_Heath" />
+			<use xlink:href="#int" x="1030" y="221" id="Gospel_Oak" />
+			<use xlink:href="#stog" transform="translate(1315,295)rotate(90)" id="Caledonian_Road_and_Barnsbury" />
+			<use xlink:href="#int" x="1505" y="300" id="Canonbury" />
+			<use xlink:href="#stog" transform="translate(1760,295)rotate(90)" id="Homerton" />
+			<use xlink:href="#stog" transform="translate(1840,295)rotate(90)" id="Hackney_Wick" />
+			<use xlink:href="#stog" transform="translate(1206,138)rotate(270)" id="Crouch_Hill" />
+				<use xlink:href="#intnr" x="1326" y="138" id="Harringay_Green_Lanes" />
+			<use xlink:href="#stog" transform="translate(1860,138)rotate(90)" id="Leyton_Midland_Road" />
+			<use xlink:href="#stogx" transform="translate(2280,433)rotate(-90)" id="Renwick_Road" />
+			<use xlink:href="#termogx" transform="translate(2390,433)rotate(-90)" id="Barking_Riverside" />
+			<use xlink:href="#stog" transform="translate(1588.625,369)rotate(143.13)" id="Haggerston" />
+			<use xlink:href="#stog" transform="translate(1606.625,393)rotate(143.13)" id="Hoxton" />
+			<use xlink:href="#stog" transform="translate(1624.625,417)rotate(143.13)" id="Shoreditch_High_Street" />
+			<use xlink:href="#stog" x="1700" y="622.5" id="Wapping" />
+			<use xlink:href="#stog" transform="translate(1700,652.5)rotate(180)" id="Rotherhithe" />
+			<use xlink:href="#stog" transform="translate(1700,730)rotate(180)" id="Surrey_Quays" />
+			<use xlink:href="#stogx" transform="translate(1644,827)rotate(233.13)" id="Surrey_Canal" />
+				<use xlink:href="#intnr" x="1584" y="872" id="Queens_Road_Peckham" />
+				<use xlink:href="#intnr" x="1524" y="917" id="Peckham_Rye" />
+				<use xlink:href="#intnr" x="1440" y="946" id="Denmark_Hill" />
+			<use xlink:href="#stog" transform="translate(1180,946)rotate(90)" id="Wandsworth_Road" />
+				<use xlink:href="#intnr" x="1110" y="946" id="Battersea_Park" />
+				<use xlink:href="#New_Cross_osi" class="osi" />
+				<use xlink:href="#intnr" x="1744.67" y="818.5" id="New_Cross" />
+				<use xlink:href="#intnr" x="1700" y="852" id="New_Cross_Gate" />
+			<use xlink:href="#stog" transform="translate(1700,887)rotate(180)" id="Brockley" />
+			<use xlink:href="#stog" transform="translate(1684,919)rotate(53.13)" id="Honor_Oak_Park" />
+			<use xlink:href="#stog" transform="translate(1644,949)rotate(53.13)" id="Forest_Hill" />
+				<use xlink:href="#intnr" x="1604" y="979" id="Sydenham" />
+				<use xlink:href="#intnr" x="1514" y="1009" id="Crystal_Palace" />
+			<use xlink:href="#stog" transform="translate(1524,1039)rotate(53.13)" id="Penge_West" />
+			<use xlink:href="#stog" transform="translate(1484,1069)rotate(53.13)" id="Anerley" />
+				<use xlink:href="#intnr" x="1444" y="1099" id="Norwood_Junction" />
+				<use xlink:href="#intnr" x="1404" y="1129" id="West_Croydon" />
+			<use xlink:href="#termog" transform="translate(1403,-61.5)rotate(180)" id="Enfield_Town" />
+			<use xlink:href="#stog" transform="translate(1403,-31.5)rotate(180)" id="Bush_Hill_Park" />
+				<use xlink:href="#intnr" x="1509" y="-91" id="Cheshunt" />
+			<use xlink:href="#stog" transform="translate(1479,-68.5)rotate(53.13)" id="Theobalds_Grove" />
+			<use xlink:href="#stog" transform="translate(1449,-46)rotate(53.13)" id="Turkey_Street" />
+			<use xlink:href="#stog" transform="translate(1419,-23.5)rotate(53.13)" id="Southbury" />
+			<use xlink:href="#intnr" x="1403" y="8.5" id="Edmonton_Green" />
+			<use xlink:href="#stog" x="1403" y="31" id="Silver_Street" />
+			<use xlink:href="#stog" x="1403" y="53.5" id="White_Hart_Lane" />
+			<use xlink:href="#stog" x="1403" y="76" id="Bruce_Grove" />
+			<use xlink:href="#stog" transform="translate(1527,189)rotate(126.87)" id="Stamford_Hill" />
+			<use xlink:href="#stog" transform="translate(1557,211.5)rotate(126.87)" id="Stoke_Newington" />
+			<use xlink:href="#stog" transform="translate(1587,234)rotate(126.87)" id="Rectory_Road" />
+			<use xlink:href="#stog" x="1635" y="355" id="London_Fields" />
+			<use xlink:href="#stog" x="1635" y="390" id="Cambridge_Heath" />
+			<use xlink:href="#stog" transform="translate(1615,478.25)rotate(53.13)" id="Bethnal_Green_overground" />
+			<use xlink:href="#termog" transform="translate(1682,23)rotate(180)" id="Chingford" />
+			<use xlink:href="#stog" x="1682" y="53" id="Highams_Park" />
+			<use xlink:href="#stog" x="1682" y="83" id="Wood_Street" />
+			<use xlink:href="#stog" transform="translate(1682,170)rotate(180)" id="St_James_Street" />
+			<use xlink:href="#stog" transform="translate(1682,210)rotate(180)" id="Clapton" />
+			<use xlink:href="#stog" transform="translate(2330.25,149)rotate(143.13)" id="Emerson_Park" />
+			<use xlink:href="#stbakerloo" transform="translate(547,357)rotate(126.87)" id="South_Kenton_bakerloo" />
+			<use xlink:href="#stbakerloo" transform="translate(575,378)rotate(126.87)" id="North_Wembley_bakerloo" />
+			<use xlink:href="#stbakerloo" transform="translate(631,420)rotate(126.87)" id="Stonebridge_Park_bakerloo" />
+			<use xlink:href="#stbakerloo" transform="translate(659,441)rotate(126.87)" id="Harlesden_bakerloo" />
+			<use xlink:href="#stbakerloo" transform="translate(725,490.5)rotate(126.87)" id="Kensal_Green_bakerloo" />
+			<use xlink:href="#stog" transform="translate(550,353)rotate(126.87)" id="South_Kenton_overground" />
+			<use xlink:href="#stog" transform="translate(578,374)rotate(126.87)" id="North_Wembley_overground" />
+			<use xlink:href="#stog" transform="translate(634,416)rotate(126.87)" id="Stonebridge_Park_overground" />
+			<use xlink:href="#stog" transform="translate(662,437)rotate(126.87)" id="Harlesden_overground" />
+			<use xlink:href="#stog" transform="translate(728,486.5)rotate(126.87)" id="Kensal_Green_overground" />
+			<use xlink:href="#stelizabeth" x="105" y="936.5" id="Heathrow_Central" />
+				<use xlink:href="#intnr" x="0" y="480" id="Reading" />
+				<use xlink:href="#intnr" x="0" y="510" id="Twyford" />
+				<use xlink:href="#intnr" x="0" y="540" id="Maidenhead" />
+			<use xlink:href="#stelizabeth" x="0" y="570" id="Taplow" />
+			<use xlink:href="#stelizabeth" x="0" y="600" id="Burnham" />
+				<use xlink:href="#intnr" x="0" y="630" id="Slough" />
+			<use xlink:href="#stelizabeth" x="0" y="660" id="Langley" />
+			<use xlink:href="#stelizabeth" x="0" y="690" id="Iver" />
+			<use xlink:href="#stelizabeth" transform="translate(86,723.9)rotate(270)" id="West_Drayton" />
+				<use xlink:href="#intnr" x="160" y="723.9" id="Hayes_and_Harlington" />
+			<use xlink:href="#stelizabeth" transform="translate(200,723.9)rotate(90)" id="Southall" />
+			<use xlink:href="#stelizabeth" transform="translate(240,723.9)rotate(270)" id="Hanwell" />
+				<use xlink:href="#intnr" x="294.667" y="723.9" id="West_Ealing" />
+			<use xlink:href="#stelizabeth" transform="translate(460,723.9)rotate(90)" id="Acton_Main_Line" />
+			<!--<use xlink:href="#stelizabethx" transform="translate(4000,4000)rotate(270)" id="Old_Oak_Common"/>
+			<use xlink:href="#stelizabethx" transform="translate(4000,4000)rotate(270)" id="Portobello_Central"/>-->
+				<use xlink:href="#intnr" x="2353.33" y="704" id="Abbey_Wood" />
+			<use xlink:href="#stelizabeth" transform="translate(2013,301)rotate(53.13)" id="Maryland" />
+			<use xlink:href="#stelizabeth" transform="translate(2137,208)rotate(233.13)" id="Ilford" />
+			<use xlink:href="#stelizabeth" transform="translate(2167,185.5)rotate(233.13)" id="Seven_Kings" />
+			<use xlink:href="#stelizabeth" transform="translate(2197,163)rotate(233.13)" id="Goodmayes" />
+			<use xlink:href="#stelizabeth" transform="translate(2227,140.5)rotate(233.13)" id="Chadwell_Heath" />
+			<use xlink:href="#stelizabeth" transform="translate(2287,95.5)rotate(233.13)" id="Gidea_Park" />
+			<use xlink:href="#stelizabeth" transform="translate(2317,73)rotate(233.13)" id="Harold_Wood" />
+			<use xlink:href="#stelizabeth" transform="translate(2347,50.5)rotate(233.13)" id="Brentwood" />
+				<title>Shenfield Elizabeth line-National Rail station. Special fares apply to/from this station because
+				<use xlink:href="#intnr" x="2377" y="28" id="Shenfield" />
+			<use xlink:href="#stgreenfordx" transform="translate(224,554)rotate(180)" id="South_Greenford"/>
+			<use xlink:href="#stgreenfordx" transform="translate(224,594)rotate(180)" id="Castle_Bar_Park"/>
+			<use xlink:href="#stgreenfordx" transform="translate(224,634)rotate(180)" id="Drayton_Green"/>
+				<use xlink:href="#sttl" x="967" y="1119.5" />
+				<use xlink:href="#sttl" x="997" y="1121.3" />
+				<use xlink:href="#sttl" x="1032.83" y="1147.5" />
+				<use xlink:href="#sttl" x="1065" y="1155" />
+				<use xlink:href="#sttl" x="1095" y="1155" />
+				<use xlink:href="#sttl" x="1125" y="1155" />
+				<use xlink:href="#sttlnr" x="1155" y="1155" />
+				<use xlink:href="#sttl" x="1185" y="1155" />
+				<use xlink:href="#sttl" x="1215" y="1155" />
+				<use xlink:href="#sttl" x="1245" y="1155" />
+				<use xlink:href="#sttl" x="1275" y="1155" />
+				<use xlink:href="#sttl" x="1305" y="1155" />
+				<use xlink:href="#sttlow" x="1335" y="1155" />
+				<use xlink:href="#sttlow" transform="translate(1382.17,1136.5)rotate(-36.87)" />
+				<use xlink:href="#sttlow" transform="translate(1425.83,1136.5)rotate(36.87)" />
+				<use xlink:href="#sttlow" transform="translate(1395,1155)rotate(180)" />
+				<use xlink:href="#sttlow" transform="translate(1425,1155)rotate(180)" />
+				<use xlink:href="#sttlnr" x="1465" y="1155" />
+				<use xlink:href="#sttl" x="1495" y="1155" />
+				<use xlink:href="#sttl" x="1525" y="1155" />
+				<use xlink:href="#sttl" x="1551.5" y="1144.5" />
+				<use xlink:href="#sttl" x="1571.5" y="1129.5" />
+				<use xlink:href="#sttl" x="1591.5" y="1114.5" />
+				<use xlink:href="#sttl" x="1611.5" y="1099.5" />
+				<use xlink:href="#sttl" x="1635.5" y="1081.5" />
+				<use xlink:href="#sttlnr" x="1655.5" y="1066.5" />
+				<use xlink:href="#sttl" x="1675.5" y="1051.5" />
+				<use xlink:href="#sttl" x="1695.5" y="1036.5" />
+				<use xlink:href="#sttlnr" x="1715.5" y="1021.5" />
+				<use xlink:href="#sttlnr" x="1647" y="1093.5" />
+				<use xlink:href="#sttl" x="1560" y="1155" />
+				<use xlink:href="#sttl" x="1590" y="1155" />
+				<use xlink:href="#sttl" x="1620" y="1155" />
+				<use xlink:href="#sttl" x="1650" y="1155" />
+				<use xlink:href="#sttl" x="1680" y="1155" />
+				<use xlink:href="#sttl" x="1710" y="1155" />
+				<use xlink:href="#sttl" x="1740" y="1155" />
+			<use xlink:href="#x_arrow" transform="rotate(180)" />
+			<use xlink:href="#enabled" x="-25" y="-55" />
+			<use xlink:href="#wheelchair" x="-20" y="15" />
+			<use xlink:href="#crutch" x="-20" y="40" />
+			<text x="-7" y="39">Step-free access from street to platform. Wheelchair user <tspan x="-7" dy="15">should
+			<use xlink:href="#wheelchair" x="12.5" y="12.5" />
+			<use xlink:href="#wheelchair" x="12.5" y="12.5" />
+				icon denotes step-free access from street to platform and wheelchair user should ask a member of staff
+			<!--Hide Baker Street cross-platform-interchange because the layout only allows one direction but not the opposite
+			<use xlink:href="#x_acc" x="1051.5" y="528" id="Baker_Street_acc">
+			</use>-->
+			<use xlink:href="#x_acc" x="1158" y="587" id="Oxford_Circus_acc">
+			</use>
+				<use xlink:href="#crutch" x="224" y="509.4" />
+					<use xlink:href="#x_acc" x="224" y="509.4" />
+			<use xlink:href="#x_acc" x="1812.5" y="445" id="Mile_End_acc">
+			</use>
+			<use xlink:href="#crutch" x="1928.5" y="46" id="Woodford_acc">
+			</use>
+			<use xlink:href="#crutch" x="1961" y="10" id="Roding_Valley_acc">
+			</use>
+			<use xlink:href="#crutch" x="2111" y="42" id="Hainault_acc" />
+			<use xlink:href="#crutch" x="637" y="742.9" id="Wood_Lane_acc" />
+					platforms require staff assistance for wheelchair user.</title>
+				<use xlink:href="#wheelchair" x="1220.5" y="741" id="Westminster_Jubilee_acc" />
+				<use xlink:href="#crutch" x="1236" y="741" id="Westminster_circle_acc" />
+			<use xlink:href="#crutch" x="449.5" y="772" id="Acton_Town_acc" />
+			<use xlink:href="#crutch" x="399.5" y="873.4" id="Kew_Gardens_acc">
+			</use>
+					District and Piccadilly lines platforms require staff assistance for wheelchair user.</title>
+				<use xlink:href="#wheelchair" x="637" y="835" id="Hammersmith_circle_acc" />
+				<use xlink:href="#crutch" x="637" y="861.9" id="Hammersmith_District_acc" />
+			<use xlink:href="#crutch" x="831" y="960" id="Fulham_Broadway_acc" />
+			<use xlink:href="#crutch" x="900" y="1067.5" id="Southfields_acc" />
+					require staff assistance for wheelchair user.</title>
+				<use xlink:href="#wheelchair" x="871" y="854.4" id="Earls_Court_Piccadilly_acc" />
+				<use xlink:href="#crutch" x="871" y="869.4" id="Earls_Court_District_acc" />
+			<use xlink:href="#crutch" x="2129.5" y="379.5" id="East_Ham_acc" />
+			<use xlink:href="#crutch" x="2191" y="336.5" id="Upney_acc" />
+			<use xlink:href="#crutch" x="2251" y="291.5" id="Dagenham_Heathway_acc" />
+			<use xlink:href="#crutch" x="2311" y="246.5" id="Elm_Park_acc" />
+					Overground platform is inaccessible to mobility-disabled users.</title>
+				<use xlink:href="#int" transform="translate(2386,179)rotate(-90)" />
+			<use xlink:href="#crutch" x="651" y="162" id="Stanmore_acc" />
+			<use xlink:href="#wheelchair" x="651" y="252" id="Kingsbury_acc" />
+					platforms require staff assistance for wheelchair user.</title>
+				<use xlink:href="#wheelchair" x="636" y="294" id="Wembley_Park_Metropolitan_acc" />
+				<use xlink:href="#crutch" x="651" y="294" id="Wembley_Park_Jubilee_acc" />
+			<use xlink:href="#wheelchair" x="1153" y="672" id="Green_Park_acc" />
+					inaccessible to mobility-disabled users.</title>
+				<use xlink:href="#wheelchair" x="1347.56" y="724.08" id="Waterloo_Jubilee_acc" />
+			<use xlink:href="#wheelchair" x="1590" y="675" id="Bermondsey_acc" />
+			<use xlink:href="#wheelchair" x="1700" y="675" id="Canada_Water_acc" />
+			<use xlink:href="#wheelchair" x="1893.5" y="648" id="Canary_Wharf_Jubilee_acc" />
+			<use xlink:href="#wheelchair" x="2000" y="648" id="North_Greenwich_acc" />
+			<use xlink:href="#wheelchair" x="2031.25" y="577" id="Canning_Town_acc" />
+			<use xlink:href="#crutch" x="124" y="38" id="Chesham_acc" />
+			<use xlink:href="#wheelchair" x="170" y="112.5" id="Chorleywood_acc" />
+			<use xlink:href="#wheelchair" x="330" y="232.5" id="Pinner_acc" />
+			<use xlink:href="#crutch" x="20" y="296.5" id="Uxbridge_acc" />
+			<use xlink:href="#crutch" x="60" y="296.5" id="Hillingdon_acc" />
+			<use xlink:href="#wheelchair" x="706" y="124.5" id="Edgware_acc" />
+			<use xlink:href="#wheelchair" x="798" y="193.5" id="Hendon_Central_acc" />
+			<use xlink:href="#crutch" x="858" y="238.5" id="Golders_Green_acc" />
+			<use xlink:href="#wheelchair" x="854" y="4.5" id="High_Barnet_acc" />
+			<use xlink:href="#crutch" x="914" y="49.5" id="Woodside_Park_acc" />
+			<use xlink:href="#crutch" x="944" y="72" id="West_Finchley_acc" />
+			<use xlink:href="#wheelchair" x="984" y="102" id="Finchley_Central_acc" />
+			<use xlink:href="#x_acc" x="1362.5" y="866" id="Kennington_acc">
+			</use>
+			<use xlink:href="#x_acc" x="1284.5" y="931" id="Stockwell_acc">
+			</use>
+			<use xlink:href="#wheelchair" x="1000.5" y="1144" id="Morden_acc" />
+			<use xlink:href="#crutch" x="384" y="490" id="Sudbury_Town_acc" />
+			<use xlink:href="#crutch" x="30" y="956.5" id="Heathrow_5_acc" />
+			<use xlink:href="#wheelchair" x="93" y="956.5" id="Heathrow_23_acc" />
+			<use xlink:href="#wheelchair" x="105" y="989" id="Heathrow_4_acc" />
+			<use xlink:href="#wheelchair" x="190" y="925" id="Hounslow_West_acc" />
+			<use xlink:href="#crutch" x="250" y="880" id="Hounslow_East_acc" />
+			<use xlink:href="#crutch" x="1306" y="260" id="Caledonian_Road_acc" />
+			<use xlink:href="#wheelchair" x="1185" y="-38.5" id="Oakwood_acc" />
+			<use xlink:href="#crutch" x="534" y="131" id="Carpenders_Park_acc" />
+			<use xlink:href="#crutch" x="696.5" y="466" id="Willesden_Junction_acc" />
+					is inaccessible to mobility-disabled users. Platforms of Northern line (Bank branch) and Victoria
+				<use xlink:href="#x_acc" x="1212" y="376.85" id="Euston_underground_acc" />
+			<use xlink:href="#crutch" x="510.5" y="786.5" id="South_Acton_acc" />
+			<use xlink:href="#crutch" x="540.5" y="764" id="Acton_Central_acc" />
+			<use xlink:href="#crutch" x="910" y="981" id="Imperial_Wharf_acc" />
+			<use xlink:href="#crutch" x="706" y="708.9" id="Shepherds_Bush_acc">
+			</use>
+			<use xlink:href="#crutch" x="979.5" y="270" id="Hampstead_Heath_acc" />
+			<use xlink:href="#crutch" x="1030" y="221" id="Gospel_Oak_acc" />
+			<use xlink:href="#crutch" x="1185.33" y="266" id="Camden_Road_acc" />
+			<use xlink:href="#crutch" x="1315" y="295" id="Caledonian_Road_and_Barnsbury_acc" />
+					inaccessible to mobility-disabled users. Platforms of Victoria line and National Rail of the same
+				<use xlink:href="#crutch" x="1435" y="300" id="Highbury_and_Islington_Overground_acc" />
+			<use xlink:href="#crutch" x="1505" y="300" id="Canonbury_acc" />
+			<use xlink:href="#crutch" x="1657.67" y="295" id="Hackney_Central_acc" />
+			<use xlink:href="#crutch" x="1760" y="295" id="Homerton_acc" />
+			<use xlink:href="#crutch" x="1840" y="295" id="Hackney_Wick_acc" />
+			<use xlink:href="#crutch" x="1107" y="169.5" id="Upper_Holloway_acc" />
+			<use xlink:href="#crutch" x="1700.75" y="138" id="Walthamstow_Queens_Road_acc" />
+			<use xlink:href="#wheelchair" x="1564.625" y="337" id="Dalston_Junction_acc" />
+			<use xlink:href="#wheelchair" x="1588.625" y="369" id="Haggerston_acc" />
+			<use xlink:href="#wheelchair" x="1606.625" y="393" id="Hoxton_acc" />
+			<use xlink:href="#wheelchair" x="1624.625" y="417" id="Shoreditch_High_Street_acc" />
+			<use xlink:href="#crutch" x="1700" y="887" id="Brockley_acc" />
+			<use xlink:href="#crutch" x="1684" y="919" id="Honor_Oak_Park_acc" />
+			<use xlink:href="#crutch" x="1644" y="949" id="Forest_Hill_acc" />
+			<use xlink:href="#crutch" x="1484" y="1069" id="Anerley_acc" />
+			<use xlink:href="#crutch" x="1403" y="-31.5" id="Bush_Hill_Park_acc" />
+			<use xlink:href="#crutch" x="1403" y="-61.5" id="Enfield_Town_acc" />
+					is inaccessible to mobility-disabled user.</title>
+				<use xlink:href="#int" x="1667" y="113" id="Walthamstow_Central_Victoria_acc" />
+				<use xlink:href="#crutch" x="1682" y="113" id="Walthamstow_Central_Overground_acc" />
+			<use xlink:href="#crutch" x="1682" y="53" id="Highams_Park_acc" />
+			<use xlink:href="#crutch" x="1682" y="23" id="Chingford_acc" />
+			<use xlink:href="#crutch" x="2330.25" y="149" id="Emerson_Park_acc" />
+			<use xlink:href="#crutch" x="2227" y="140.5" id="Chadwell_Heath_acc" />
+			<use xlink:href="#crutch" x="2347" y="50.5" id="Brentwood_acc" />
+				<use xlink:href="#crutch" x="921" y="588" id="Paddington_acc" />
+				<use xlink:href="#wheelchair" x="1290" y="387" id="Kings_Cross_St_Pancras_acc" />
+				<use xlink:href="#crutch" x="1386" y="459.625" id="Farringdon_circle_acc" />
+				<use xlink:href="#crutch" x="1372" y="639" id="Blackfriars_acc" />
+						District/Hammersmith & City lines platforms require staff assistance for wheelchair user.
+					<use xlink:href="#wheelchair" x="2031" y="449.5" id="West_Ham_Jubilee_DLR_acc" />
+					<use xlink:href="#crutch" x="2031" y="434" id="West_Ham_District_acc" />
+				<use xlink:href="#crutch" x="2159.5" y="357" id="Barking_acc" />
+						platform. Overground platform is inaccessible to mobility-disabled users.</title>
+					<use xlink:href="#crutch" x="2401" y="179" />
+				<use xlink:href="#wheelchair" x="1380.2" y="699.6" id="Southwark_acc" />
+				<use xlink:href="#wheelchair" x="1479" y="675" id="London_Bridge_acc" />
+				<use xlink:href="#wheelchair" x="140" y="90" id="Chalfont_and_Latimer_acc" />
+				<use xlink:href="#x_acc" x="1387.5" y="183" id="Finsbury_Park_acc">
+				</use>
+				<use xlink:href="#wheelchair" x="1530" y="113" id="Tottenham_Hale_acc" />
+				<use xlink:href="#wheelchair" x="1305" y="958" id="Brixton_acc" />
+				<use xlink:href="#crutch" x="531.5" y="20" id="Watford_Junction_acc" />
+				<use xlink:href="#crutch" x="531.5" y="239" id="Harrow_and_Wealdstone_acc" />
+				<use xlink:href="#crutch" x="606.5" y="398.5" id="Wembley_Central_acc" />
+						rest is inaccessible to mobility-disabled users. Platforms of Northern line (Bank branch) and
+					<use xlink:href="#crutch" x="1172.9325" y="364.85" id="Euston_Overground_acc" />
+				<use xlink:href="#crutch" x="1326" y="138" id="Harringay_Green_Lanes_acc" />
+				<use xlink:href="#crutch" x="1744.67" y="818.5" id="New_Cross_acc" />
+				<use xlink:href="#crutch" x="1604" y="979" id="Sydenham_acc" />
+				<use xlink:href="#crutch" x="1514" y="1009" id="Crystal_Palace_acc" />
+				<use xlink:href="#crutch" x="1404" y="1129" id="West_Croydon_acc" />
+				<use xlink:href="#crutch" x="1584" y="872" id="Queens_Road_Peckham_acc" />
+				<use xlink:href="#crutch" x="1440" y="946" id="Denmark_Hill_acc" />
+				<use xlink:href="#crutch" x="1564" y="480" id="Liverpool_Street_acc" />
+				<use xlink:href="#crutch" x="1403" y="8.5" id="Edmonton_Green_acc" />
+				<use xlink:href="#crutch" x="1509" y="-91" id="Cheshunt_acc" />
+				<use xlink:href="#crutch" x="2257" y="118" id="Romford_acc" />
+				<use xlink:href="#crutch" x="2377" y="28" id="Shenfield_acc" />
+						requires staff assistance for wheelchair user.</title>
+					<use xlink:href="#crutch" x="1978.375" y="318.25" />
+					<use xlink:href="#wheelchair" x="1987.375" y="330.25" />
+				<use xlink:href="#crutch" x="360.5" y="903.4" id="Richmond_acc">
+				</use>
+				<use xlink:href="#crutch" x="939" y="1119.5" id="Wimbledon_acc" />
+				<use xlink:href="#crutch" x="1098.333" y="981" id="Clapham_Junction_acc" />
+				<use xlink:href="#crutch" x="828.5" y="920" id="West_Brompton_acc">
+					<title>District line southbound platform is inaccessible to mobility-disabled users.</title>
+				</use>
+				<use xlink:href="#crutch" x="828.5" y="819" id="Kensington_Olympia_acc" />
+						inaccessible to mobility-disabled users. Platforms of Victoria line and National Rail of the
+					<use xlink:href="#x_acc" x="1420" y="300" id="Highbury_and_Islington_Victoria_NR_acc" />
+			<use xlink:href="#rv" x="1602" y="125" id="Blackhorse_Road_validator" />
+			<use xlink:href="#rv" x="449" y="836.4" id="Gunnersbury_validator" />
+			<use xlink:href="#rv" x="300" y="296.5" id="Rayners_Lane_validator" />
+			<use xlink:href="#rv" x="1700" y="730" id="Surrey_Quays_validator" />
+			<use xlink:href="#rv" x="1700" y="532.5" id="Whitechapel_validator" />
+				<use xlink:href="#rv" x="1700" y="675" id="Canada_Water_validator" />
+				<use xlink:href="#rv" x="1030" y="221" id="Gospel_Oak_validator" />
+				<use xlink:href="#rv" x="1647.585" y="286.5" id="Hackney_validator">
+				</use>
+				<use xlink:href="#rv" x="696.5" y="466" id="Willesden_Junction_validator" />
+				<use xlink:href="#rv" x="1098.333" y="981" id="Clapham_Junction_validator" />
+				<use xlink:href="#rv" x="1420" y="300" id="Highbury_and_Islington_validator" />
+				<use xlink:href="#rv" x="828.5" y="819" id="Kensington_Olympia_validator" />
+				<use xlink:href="#rv" x="360.5" y="903.4" id="Richmond_validator" />
+				<use xlink:href="#rv" x="1982.875" y="324.25" id="Stratford_validator" />
+				<use xlink:href="#rv" x="828.5" y="920" id="West_Brompton_validator" />
+				<use xlink:href="#rv" x="939" y="1119.5" id="Wimbledon_validator" />
+		<use xlink:href="#rv" x="185" y="-75" id="validator_legend" />
+					use the recommended route otherwise you might be charged more unexpectedly.</tspan>
+				<text x="1465" y="555" class="end">Bank <use xlink:href="#int" id="Bank_Monument_hub" /> </text>
+				<text x="2210" y="607" class="end">Custom House<tspan x="2210" dy="13"> for ExCeL</tspan></text>
+					<text x="0" y="0" class="textbg">Monument <use xlink:href="#int" id="Bank_Monument_hub" /> </text>
+					<text x="0" y="0">Monument <use xlink:href="#int" id="Bank_Monument_hub" /> </text>
+					<text x="1402" y="598">Mansion<tspan x="1390" dy="13"> House</tspan></text>
+						<title>Because of old design and congestion, passengers are highly recommended to instead enter
+					<text x="1370.5" y="160">Manor House</text>
+					<text x="1747" y="602">Limehouse</text>
+									x="0" dy="20">Passengers may also use Hatton Cross for changing trains <tspan x="0"

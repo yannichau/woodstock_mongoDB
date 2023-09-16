@@ -1,9 +1,5 @@
-import { Routes, Route } from 'react-router-dom';
-
-import { HashRouter} from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import axios from "axios";
-import './App.css';
 
 import TubePage from './pages/Tube';
 
@@ -19,15 +15,10 @@ function App() {
       console.log(res.data);
     }
     fetchStations();
-
   }, []);
 
   return (
-    <HashRouter>
-      <Routes>
-            <Route path="/" element={<TubePage stationdata={stationdata} />} />
-        </Routes>
-    </HashRouter>
+    <TubePage stationdata={stationdata} />
   );
 }
 

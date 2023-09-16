@@ -40,9 +40,9 @@ function WoodstockTravels({ postdata }) {
                         //console.log(item);
                         if (item.ID === station_name) {
                             for (const post of postdata) {
-                                if (post.station_ID === station_name) {
-                                    item.ws_description = post.description;
-                                    item.ws_image = post.image;
+                                if (post.acf.lookup_id_select === station_name) {
+                                    item.ws_description = post.excerpt.rendered;
+                                    item.ws_image = post.featured_media_src_url;
                                     console.log("printattribute")
 
                                     var x = 0;

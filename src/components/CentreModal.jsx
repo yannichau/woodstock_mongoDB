@@ -36,7 +36,7 @@ function CentreModal(props) {
                 title="Woodstock has been here before!"
                 info={
                   <div>
-                    <p>{props.content["ws_description"]}</p>
+                    <div dangerouslySetInnerHTML={{ __html: props.content["ws_description"] }} />
                     {props.content["ws_image"] === ""
                       ? <></>
                       :

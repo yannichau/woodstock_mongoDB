@@ -14,8 +14,9 @@
 }
 
 .scrolling-wrapper {
-  overflow-x: scroll;
-  overflow-y: hidden;
-  white-space: nowrap;
-  -webkit-overflow-scrolling: touch;
+  margin: 0 auto;
+  width:100vw;
+  height:100vh;
+  overflow: hidden;
+  position: relative;
 }

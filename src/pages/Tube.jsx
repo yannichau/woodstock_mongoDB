@@ -17,20 +17,19 @@ function TubePage({ stationdata }) {
     }, [stationdata]);
 
     return (
-        <div>
+        <>
             {loaded ? (
-                <div>
-                    <WoodstockTravels postdata={stationPosts} />
-                    {/* <div className="container mt-4 col-md-10">
-                        <WoodstockMasonry postdata={stationPosts} />
-                    </div> */}
-                </div>
+                <WoodstockTravels postdata={stationPosts} />
             ) : (
                 <LoadingGif />
             )
             }
-        </div>
+        </>
     );
 }
 
 export default TubePage;
+
+{/* <div className="container mt-4 col-md-10">
+                        <WoodstockMasonry postdata={stationPosts} />
+                    </div> */}

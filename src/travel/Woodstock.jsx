@@ -1,5 +1,11 @@
 import React, { useRef, useEffect, useState } from "react";
 import * as d3 from "d3";
+import {
+    TransformWrapper,
+    TransformComponent,
+    useControls
+} from "react-zoom-pan-pinch";
+import Button from 'react-bootstrap/Button';
 
 import CentreModal from '../components/CentreModal';
 
@@ -9,6 +15,7 @@ import stationData from './stations.json';
 import { ReactComponent as MapSVG } from './original_map.svg';
 import woodstock_stn from './../images/woodstock_stn.webp';
 
+
 function WoodstockTravels({ postdata }) {
 
     const svgRef = useRef();
@@ -16,6 +23,17 @@ function WoodstockTravels({ postdata }) {
     const [infoTip, setInfoTip] = useState(null);
     const [show, setShow] = useState(false);
     const handleShow = () => setShow(true);
+
+    const Controls = () => {
+        const { zoomIn, zoomOut, resetTransform } = useControls();
+        return (
+            <>
+                <Button variant="primary" onClick={() => zoomIn()}> + </Button> {' '}
+                <Button variant="primary" onClick={() => zoomOut()}> - </Button> {' '}
+                <Button variant="outline-primary" onClick={() => resetTransform()}>Reset</Button>
+            </>
+        );
+    };
 
     useEffect(() => {
 
@@ -41,6 +59,9 @@ function WoodstockTravels({ postdata }) {
                         if (item.ID === station_name) {
                             for (const post of postdata) {
                                 if (post.acf.lookup_id_select === station_name) {
+
+                                    svg.select(`#${station_name}`).remove();
+
                                     item.ws_description = post.excerpt.rendered;
                                     item.ws_image = post.featured_media_src_url;
                                     console.log("printattribute")
@@ -132,27 +153,27 @@ function WoodstockTravels({ postdata }) {
 
 
     return (
-        <main>
-            <div className="scrolling-wrapper">
-                <MapSVG ref={svgRef} />
-            </div >
-
-            {infoTip === null ?
-                <CentreModal
-                    title="Station placeholder"
-                    content={null}
-                    show={show}
-                    onHide={() => setShow(false)}
-                />
-                :
-                <CentreModal
-                    title={infoTip.Station}
-                    content={infoTip}
-                    show={show}
-                    onHide={() => setShow(false)}
-                />
-            }
-        </main>
+        <TransformWrapper>
+            {/* <Controls /> */}
+            <TransformComponent>
+                <MapSVG ref={svgRef} class="scrolling-wrapper" />
+                {infoTip === null ?
+                    <CentreModal
+                        title="Station placeholder"
+                        content={null}
+                        show={show}
+                        onHide={() => setShow(false)}
+                    />
+                    :
+                    <CentreModal
+                        title={infoTip.Station}
+                        content={infoTip}
+                        show={show}
+                        onHide={() => setShow(false)}
+                    />
+                }
+            </TransformComponent>
+        </TransformWrapper>
     );
 }
 

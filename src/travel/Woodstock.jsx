@@ -95,6 +95,7 @@ function WoodstockTravels({ postdata }) {
                                             if (datum.srcElement.id !== "") {
                                                 var stationInfo = datum.srcElement.__data__;
                                                 setInfoTip(stationInfo);
+                                                console.log(stationInfo);
                                             }
                                         })
                                         .on("click", datum => {

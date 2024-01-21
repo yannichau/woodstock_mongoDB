@@ -1,59 +1,68 @@
 import Modal from "react-bootstrap/Modal";
 import Button from "react-bootstrap/Button";
-import ListGroup from 'react-bootstrap/ListGroup';
-import Image from 'react-bootstrap/Image';
-// import { CloseButton } from "react-bootstrap";
-import { Row, Col } from 'react-bootstrap';
+import SquircleBox from "./SquircleBox";
 
 import ListGroupItem from './ListGpItem';
+import Lines from "./Lines";
 
 function CentreModal(props) {
   return (
     <Modal
       {...props}
-      size="lg"
+      size="xl"
       aria-labelledby="contained-modal-title-vcenter"
       centered
     >
-      <Modal.Header>
-        <Modal.Title id="contained-modal-title-vcenter">
-          {props.title}
-        </Modal.Title>
-        <Button onClick={props.onHide}>Close</Button>
-      </Modal.Header>
-      <Modal.Body>
+      <div class="gx-4 mb-4">
         {props.content === null ?
           <></>
           :
-          <ListGroup>
-            <ListGroupItem title="Lines" info={props.content.Lines} />
-            {props.content["Step free Info"] === "" ? <></> : <ListGroupItem title="Step free access" info={props.content["Step free Info"]} />}
-            {props.content["Borough"] === "" ? <></> : <ListGroupItem title="Borough" info={props.content["Borough"]} />}
-            {props.content["Zones"] === "" ? <></> : <ListGroupItem title="Zones" info={props.content["Zones"]} />}
-            {props.content["Opening date"] === "" ? <></> : <ListGroupItem title="Opening date" info={props.content["Opening date"]} />}
-            {props.content["ws_description"] === "" ? <></> :
-              <ListGroupItem
-                title="Woodstock has been here before!"
-                info={
-                  <div>
-                    <div dangerouslySetInnerHTML={{ __html: props.content["ws_description"] }} />
-                    {props.content["ws_image"] === ""
-                      ? <></>
-                      :
-                      <Row className="justify-content-md-center">
-                        <Col md={6} xs={10}>
-                          <Image src={props.content["ws_image"]} fluid />
-                        </Col>
-                      </Row>
-                    }
-                  </div>
-                }
-              />}
-          </ListGroup>
+          <div class="container">
+            <div class="row g-4 mt-2">
+              <div class="col">
+                <h1><b>{props.title}</b></h1>
+                <Lines lines={props.content.Lines} />
+                <div class="mt-4">
+                  {props.content["Step free Info"] === "" ? <></> : <SquircleBox title="Step free access ♿" content={props.content["Step free Info"]} appearance="teal" />}
+                  {props.content["Borough"] === "" ? <></> : <SquircleBox title="Borough 🏫" content={props.content["Borough"]} appearance="bordered-grey" />}
+                  {props.content["Zones"] === "" ? <></> : <SquircleBox title="Zones 🏁" content={props.content["Zones"]} appearance="dark" />}
+                  {props.content["Opening date"] === "" ? <></> : <SquircleBox title="Opening date 🗓️" content={props.content["Opening date"]} appearance="bordered-white" />}
+                </div>
+                <div>
+                  <br></br>
+                  {props.content["ws_description"] === "" ? <></> :
+                    <ListGroupItem
+                      title="Woodstock has been here before!"
+                      info={
+                        <div dangerouslySetInnerHTML={{ __html: props.content["ws_description"] }} />
+                      }
+                    />}
+                </div>
+              </div>
+              <div class="col align-items-center">
+                <div class="d-flex justify-content-center">
+                  {props.content["ws_image"] === ""
+                    ? <></>
+                    :
+                    <img src={props.content["ws_image"]} class="img-fluid rounded" style={{ maxHeight: "600px" }}></img>
+                  }
+                </div>
+              </div>
+            </div>
+          </div>
         }
-      </Modal.Body>
+      </div>
     </Modal>
   );
 }
 
 export default CentreModal;
+
+/*
+              <div class="col">
+                <div class="float-end">
+                  <Button onClick={props.onHide} variant="danger" >Close</Button>
+                </div>
+              </div>
+
+*/

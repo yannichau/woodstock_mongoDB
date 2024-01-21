@@ -154,27 +154,24 @@ function WoodstockTravels({ postdata }) {
 
 
     return (
-        <TransformWrapper>
-            {/* <Controls /> */}
-            <TransformComponent>
-                <MapSVG ref={svgRef} class="scrolling-wrapper" />
-                {infoTip === null ?
-                    <CentreModal
-                        title="Station placeholder"
-                        content={null}
-                        show={show}
-                        onHide={() => setShow(false)}
-                    />
-                    :
-                    <CentreModal
-                        title={infoTip.Station}
-                        content={infoTip}
-                        show={show}
-                        onHide={() => setShow(false)}
-                    />
-                }
-            </TransformComponent>
-        </TransformWrapper>
+        <>
+            <MapSVG ref={svgRef} class="scrolling-wrapper" />
+            {infoTip === null ?
+                <CentreModal
+                    title="Station placeholder"
+                    content={null}
+                    show={show}
+                    onHide={() => setShow(false)}
+                />
+                :
+                <CentreModal
+                    title={infoTip.Station}
+                    content={infoTip}
+                    show={show}
+                    onHide={() => setShow(false)}
+                />
+            }
+        </>
     );
 }
 

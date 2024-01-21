@@ -1,11 +1,11 @@
 import Modal from "react-bootstrap/Modal";
-import Button from "react-bootstrap/Button";
 import SquircleBox from "./SquircleBox";
 
 import ListGroupItem from './ListGpItem';
 import Lines from "./Lines";
 
 function CentreModal(props) {
+  console.log(props)
   return (
     <Modal
       {...props}
@@ -19,7 +19,7 @@ function CentreModal(props) {
           :
           <div class="container">
             <div class="row g-4 mt-2">
-              <div class="col">
+              <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
                 <h1><b>{props.title}</b></h1>
                 <Lines lines={props.content.Lines} />
                 <div class="mt-4">
@@ -30,23 +30,23 @@ function CentreModal(props) {
                 </div>
                 <div>
                   <br></br>
-                  {props.content["ws_description"] === "" ? <></> :
+                  {props.content.ws_description ?
                     <ListGroupItem
                       title="Woodstock has been here before!"
                       info={
                         <div dangerouslySetInnerHTML={{ __html: props.content["ws_description"] }} />
                       }
-                    />}
-                </div>
-              </div>
-              <div class="col align-items-center">
-                <div class="d-flex justify-content-center">
-                  {props.content["ws_image"] === ""
-                    ? <></>
-                    :
-                    <img src={props.content["ws_image"]} class="img-fluid rounded" style={{ maxHeight: "600px" }}></img>
+                    />
+                    : <></>
                   }
                 </div>
+              </div>
+              <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 align-items-center d-flex justify-content-center">
+                {props.content["ws_image"] === ""
+                  ? <></>
+                  :
+                  <img src={props.content["ws_image"]} class="img-fluid" style={{ maxHeight: "600px", borderRadius: 10 }}></img>
+                }
               </div>
             </div>
           </div>
@@ -57,12 +57,3 @@ function CentreModal(props) {
 }
 
 export default CentreModal;
-
-/*
-              <div class="col">
-                <div class="float-end">
-                  <Button onClick={props.onHide} variant="danger" >Close</Button>
-                </div>
-              </div>
-
-*/
